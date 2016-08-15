@@ -19,17 +19,29 @@
 
 - Python
 
-## Software and Library Repositories
-
-- QtPods
-- Inqlude
-
 ## Libraries
+
+This section describes two kinds of third-party libraries; those that provide their own brand-new functionality (e.g. widgets), and those that provide integrations with existing software (e.g. scripting languages, clients for REST APIs).
+
+
+### Integrations
+
+- QScintilla
+
+### New Functionality
 
 - V-Play
 - Qtilities
-- QScintilla
 - KDE libraries
+
+## Software Repositories
+
+If the [Libraries](#libraries) section doesn't satisfy you, perhaps one of these will.
+
+- [#inqlude](https://inqlude.org) - The most well-known aggregation of Qt-centric libraries out there.  A package manager is also available [here](https://inqlude.org/get.html).
+- [QtPods](http://www.qt-pods.org) - Another Qt-centric package manager.  If you want to see the offerings without using QtPods, the full list is available [here](https://github.com/qt-pods/qt-pods-master/blob/master/pods.json), and can be added to by submitting a pull request.
+- [Linux-Apps.com](https://www.linux-apps.com) - Despite the name, Linux-Apps.com aggregates a wide variety of Qt-based tools and libraries for both end-users and developers.
+- [Stephan Binner's Ubuntu PPAs](https://launchpad.net/~beineri) - Ubuntu users who are hesitant to install anything outside of their package managers can obtain any recent version of Qt from these repositories.  Instructions for adding them are found within.
 
 ## Tools
 

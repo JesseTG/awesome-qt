@@ -43,6 +43,7 @@ The Qt framework has surprisingly many tools that don't get the spotlight.  This
 ## Third-Party Tools
 
 - [CMake](http://doc.qt.io/qt-5/cmake-manual.html) - A general C++ build tool that happens to have great Qt support.
+- [GammaRay](https://www.kdab.com/development-resources/qt-tools/gammaray/) - A very powerful debugger and general inspection tool for Qt-built software.  Lets you inspect and manipulate the `QObject` hierarchy, view object properties, edit widgets at runtime, and far, *far* more.  A two-sentence blurb can't do it justice, seriously check it out.
 
 ## Bindings in Other Languages
 

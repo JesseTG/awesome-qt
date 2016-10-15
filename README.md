@@ -56,7 +56,7 @@ If the [Libraries](#libraries) section doesn't satisfy you, perhaps one of these
 
 A framework is only as great as the software that uses it.  Fortunately, much great software uses Qt.
 
-- [Autodesk Maya](http://www.autodesk.com/maya) - 3D animation and design software that has been used to create visual effects for some of the most popular movies of all time.
+- [Autodesk Maya](http://www.autodesk.com/maya) - 3D animation and design software that has been used to create visual effects for some of the most popular movies and TV shows of all time.
 - [CMake](https://cmake.org) - The closest thing to a standard C++ build system out there. The bundled GUI uses Qt.
 - [CRYENGINE](https://www.cryengine.com) - But can it run Crysis?
 - [Doxygen](http://www.stack.nl/~dimitri/doxygen) - The most popular documentation generator for C++, though it supports other languages as well.  The bundled GUI uses Qt.

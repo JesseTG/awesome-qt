@@ -74,11 +74,6 @@ If the [Libraries](#libraries) section doesn't satisfy you, perhaps one of these
 - [Linux-Apps.com](https://www.linux-apps.com) - Despite the name, Linux-Apps.com aggregates a wide variety of Qt-based tools and libraries for both end-users and developers.
 - [Stephan Binner's Ubuntu PPAs](https://launchpad.net/~beineri) - Ubuntu users who are hesitant to install anything outside of their package managers can obtain any recent version of Qt from these repositories.  Instructions for adding them are found within.
 
-## Tools
-
-- GammaRay
-- sip
-
 ## Blogs
 
 - [ICS](http://www.ics.com/blog) - A Qt-centric software consulting firm with a really neat blog.

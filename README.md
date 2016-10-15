@@ -44,6 +44,7 @@ The Qt framework has surprisingly many tools that don't get the spotlight.  This
 
 - [CMake](http://doc.qt.io/qt-5/cmake-manual.html) - A general C++ build tool that happens to have great Qt support.
 - [GammaRay](https://www.kdab.com/development-resources/qt-tools/gammaray/) - Powerful debugger and general inspection tool for Qt-built software.  Lets you inspect and manipulate the `QObject` hierarchy, view object properties, edit widgets at runtime, and far, *far* more.  A two-sentence blurb can't do it justice, seriously check it out.
+- [SIP](https://www.riverbankcomputing.com/software/sip/intro) - Generates Python bindings for C or C++ libraries.  Has special support for Qt signals and slots, and was used to create [PyQt](https://riverbankcomputing.com/software/pyqt/intro).
 
 ## Bindings in Other Languages
 

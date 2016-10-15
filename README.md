@@ -26,7 +26,7 @@ This section describes two kinds of third-party libraries; those that provide th
 
 ### Integrations
 
-- QScintilla
+- [QScintilla](https://riverbankcomputing.com/software/qscintilla/intro) - An absurdly versatile and customizable text editor widget that provides syntax highlighting, code completion, code folding, recordable macros, and *much* more.  Created by the same company that developed PyQt.
 
 ### New Functionality
 

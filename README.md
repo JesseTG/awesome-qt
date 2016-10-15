@@ -81,8 +81,10 @@ If the [Libraries](#libraries) section doesn't satisfy you, perhaps one of these
 
 ## Blogs
 
-- ICS
-- Woboq
+- [ICS](http://www.ics.com/blog) - A Qt-centric software consulting firm with a really neat blog.
+- [Woboq](https://woboq.com/blog) - Another software consulting firm that also contributes code to Qt.
+- KDAB
+planet qt
 
 ## Tutorials
 

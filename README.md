@@ -63,7 +63,7 @@ A framework is only as great as the software that uses it.  Fortunately, much gr
 - [Google Earth](https://www.google.com/earth) - *The* virtual globe.
 - [KDE](https://www.kde.org) - A popular desktop environment for Linux.
 - [Parallels Desktop](http://www.parallels.com/products/desktop) - Consumer-focused virtualization.
-- [Qt Creator](https://www.qt.io/ide) - Something something eating your own dog food. Listed in the [official resources](#official-resources), but not listing here doesn't feel right.
+- [Qt Creator](https://www.qt.io/ide) - Something something eating your own dog food. Listed in the [official resources](#official-resources), but not listing it here doesn't feel right.
 - [RUBE](https://www.iforce2d.net/rube) - A level design tool for any game that uses the Box2D physics engine.
 - [Skype](https://www.skype.com/en/download-skype/skype-for-linux) - Yes, *that* Skype.  Only the Linux version uses Qt.
 - [TeamSpeak](http://www.teamspeak.com) - When gamers want to voice chat in a game that doesn't support it, they'll use this.

@@ -13,7 +13,30 @@
 - Website
 - Documentation
 - Wiki
-- Qt Creator
+
+### Tools
+
+A good developer writes his or her own tools.  A great one uses tools others wrote.  This section will help you be great.
+
+## Official Tools
+
+The Qt framework has surprisingly many tools that don't get the spotlight.  This section describes them (as well as the star players that do).
+
+- [Qt Creator](https://www.qt.io/ide/) - By no means does Qt lock you into its provided IDE, but its firm integration with the framework makes it a good sell.  Among other things, it provides a UI designer, modeling tools, a documentation browser, and great QML support if you're into that sort of thing.  There's also a plugin system, but third-party plugins are unfortunately scarce.
+  - [Qt Designer](http://doc.qt.io/qt-5/qtdesigner-manual.html) - If you'd rather just design the interfaces and let someone else hook them up to logic, the GUI designer is available as a separate application.
+  - [Qt Assistant](http://doc.qt.io/qt-5/qtassistant-index.html) - So is the documentation viewer, for that matter.
+- [Qt Visual Studio Add-in](http://doc.qt.io/vs-addin/index.html) - If you'd rather stick to Visual Studio, this add-in will let you do that.
+- [Qt Linguist](http://doc.qt.io/qt-5/qtlinguist-index.html) - Qt provides excellent internationalization/localization support, and this tool is very much responsible for it.  Write translatable strings in your code with special macros, and this tool will aggregate them all for you so you or your translator(s) can broaden your software's audience.
+- [Qt Installer Framework](http://doc.qt.io/qtinstallerframework/index.html) - Nobody seems to talk about this, but Qt also provides a way to write an installer for your application.  Does not support creation of OS X disk images or Linux packages, so be mindful of that when considering your project's distribution.
+- [qmake](http://doc.qt.io/qt-5/qmake-manual.html) - A build system designed for Qt, though it can be used for non-Qt projects.
+- [qbs](http://doc.qt.io/qbs/index.html) - If QML is more your style, this alternative build system might be up your alley.
+- [Emulator](http://doc.qt.io/emulator/index.html) - Don't forget about Qt's mobile support!
+- `qtdiag` - A command-line tool that prints out a lot of information pertaining to both your Qt installation and your system in general.  No link because there's no dedicated web page; just run `qtdiag` on the command line.  Excellent for troubleshooting.
+- `qmleasing` - A curiously undocumented tool in that lets you make easing curves suitable for QML, though if you understand the underlying math there's no reason you couldn't use the resulting numbers elsewhere.
+
+## Third-Party Tools
+
+- [CMake](http://doc.qt.io/qt-5/cmake-manual.html) - A general C++ build tool that happens to have great Qt support.
 
 ## Bindings in Other Languages
 
@@ -46,6 +69,9 @@ If the [Libraries](#libraries) section doesn't satisfy you, perhaps one of these
 - [Stephan Binner's Ubuntu PPAs](https://launchpad.net/~beineri) - Ubuntu users who are hesitant to install anything outside of their package managers can obtain any recent version of Qt from these repositories.  Instructions for adding them are found within.
 
 ## Tools
+
+- GammaRay
+- sip
 
 ## Blogs
 

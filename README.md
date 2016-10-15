@@ -22,7 +22,7 @@
 
 ### Tools
 
-A good developer writes his or her own tools.  A great one uses tools others wrote.  This section will help you be great.
+A good developer writes his or her own tools.  A great one uses tools others wrote.  This section will help you be great; more formally, this section details applications that make it easier to create software with Qt.  You may also be interested in the [Libraries](#libraries) section.
 
 ## Official Tools
 

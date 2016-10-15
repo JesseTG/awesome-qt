@@ -11,7 +11,13 @@
 ## Official Resources
 
 - Website
+
+### Documentation
+
 - Documentation
+
+### Community
+
 - Wiki
 
 ### Tools

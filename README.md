@@ -17,7 +17,9 @@
 
 ## Bindings in Other Languages
 
-- Python
+- [Python (via PyQt)](https://riverbankcomputing.com/software/pyqt/intro) - Arguably the most comprehensive and well-known binding of Qt to another language.
+
+...To be honest, that's the only one really worth mentioning as of this writing.  If you use a language that compiles to (or can easily and rapidly interface with) C++, I guess you could make something work.  If you're really so inclined, [these](http://www.ics.com/blog/using-qt-alternative-programming-languages-part-1) [two](http://www.ics.com/blog/using-qt-alternative-programming-languages-part-2) articles may pique your interest.
 
 ## Libraries
 

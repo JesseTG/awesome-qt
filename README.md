@@ -59,7 +59,7 @@ The Qt framework has surprisingly many tools that don't get the spotlight.  This
 - [qbs](https://doc.qt.io/qbs) [:octocat:](https://github.com/qt-labs/qbs) - If QML is more your style, this alternative build system might be up your alley.
 - [Emulator](https://doc.qt.io/emulator) - Don't forget about Qt's mobile support!
 - `qtdiag` [:octocat:](https://github.com/qt/qttools/tree/dev/src/qtdiag) - A command-line tool that prints out a lot of information pertaining to both your Qt installation and your system in general.  No link because there's no dedicated web page; just run `qtdiag` on the command line.  Excellent for troubleshooting.
-- `qmleasing` - A curiously undocumented tool that lets you make easing curves suitable for QML, though if you understand the underlying math there's no reason you couldn't use the resulting numbers elsewhere.
+- `qmleasing` [:octocat:](https://github.com/qt/qtdeclarative/tree/dev/tools/qmleasing) - A curiously undocumented tool that lets you make easing curves suitable for QML, though if you understand the underlying math there's no reason you couldn't use the resulting numbers elsewhere.
 
 ### Third-Party Tools
 

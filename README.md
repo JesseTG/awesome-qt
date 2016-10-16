@@ -118,3 +118,5 @@ A framework is only as great as the software that uses it.  Fortunately, much gr
 - [VirtualBox](https://www.virtualbox.org) - Virtualization software for x86/64 processors.  The bundled GUI uses Qt.
 - [Wolfram Mathematica](https://www.wolfram.com/mathematica) - Programming language, symbolic calculator, and engineer's best friend.
 - [Yabause](https://yabause.org) - A Sega Saturn emulator.
+
+There's also an official showroom [here](https://showroom.qt.io/), which lets developers submit their own Qt-powered applications for display.

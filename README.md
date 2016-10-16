@@ -17,7 +17,10 @@
 - [Qt Documentation](https://doc.qt.io/) - Official Qt documentation.  Massive and comprehensive.
 - [Qt Bug Tracker](https://bugreports.qt.io/) - If you think you've found a bug with Qt or one of its related projects, report it here (or see if someone else already has).
 - [Qt Code Review](https://codereview.qt-project.org) - See how the Qt maintainers ensure their code is well-written.
-- [Source Code](https://code.qt.io/cgit/) [:octocat:](https://github.com/qt)/[:octocat:](https://github.com/qtproject) - Browse the various source trees that comprise the Qt project.
+- [Source Code](https://code.qt.io/cgit/) - Browse the various source trees that comprise the Qt project.  Has several GitHub organizations:
+  - Qt [:octocat:](https://github.com/qt)
+  - Qt Project [:octocat:](https://github.com/qtproject)
+  - Qt Labs [:octocat:](https://github.com/qt-labs)
 
 ## Communities
 

@@ -72,7 +72,7 @@ The Qt framework has surprisingly many tools that don't get the spotlight.  This
 ## Bindings in Other Languages
 
 - [Python (via PyQt)](https://riverbankcomputing.com/software/pyqt/intro) [:package:](https://www.riverbankcomputing.com/software/pyqt/download5) - Arguably the most comprehensive and well-known binding of Qt to another language.
-- [Python (via PySide)](https://github.com/PySide) - Another binding for Python, which has been officially adopted by the Qt project.
+- [Python (via PySide)](http://www.pyside.org) [:package:](https://code.qt.io/cgit/pyside/pyside.git) - Another binding for Python, which has been officially adopted by the Qt project.
 - [Ring (via RingQt)](http://ring-lang.sourceforge.net/doc/qt.html) - I've never heard of this language either, honestly.
 
 See these [these](https://www.ics.com/blog/using-qt-alternative-programming-languages-part-1) [three](https://www.ics.com/blog/using-qt-alternative-programming-languages-part-2) [articles](https://wiki.qt.io/Category:LanguageBindings) if you want more.

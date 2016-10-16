@@ -10,7 +10,7 @@
 
 ## Official Resources
 
-- Website
+- [Official Website](https://www.qt.io/) - The official website for the Qt framework.
 
 ### Documentation
 

@@ -13,11 +13,11 @@
 
 ## Official Resources
 
-- [Official Website](https://www.qt.io/) - The official website for the Qt framework.
-- [Qt Documentation](https://doc.qt.io/) - Official Qt documentation.  Massive and comprehensive.
-- [Qt Bug Tracker](https://bugreports.qt.io/) - If you think you've found a bug with Qt or one of its related projects, report it here (or see if someone else already has).
+- [Official Website](https://www.qt.io) - The official website for the Qt framework.
+- [Qt Documentation](https://doc.qt.io) - Official Qt documentation.  Massive and comprehensive.
+- [Qt Bug Tracker](https://bugreports.qt.io) - If you think you've found a bug with Qt or one of its related projects, report it here (or see if someone else already has).
 - [Qt Code Review](https://codereview.qt-project.org) - See how the Qt maintainers ensure their code is well-written.
-- [Source Code](https://code.qt.io/cgit/) - Browse the various source trees that comprise the Qt project.  Has several GitHub organizations:
+- [Source Code](https://code.qt.io/cgit) - Browse the various source trees that comprise the Qt project.  Has several GitHub organizations:
   - Qt [:octocat:](https://github.com/qt)
   - Qt Project [:octocat:](https://github.com/qtproject)
   - Qt Labs [:octocat:](https://github.com/qt-labs)
@@ -28,8 +28,8 @@ If you build it, they will come.  This section describes aggregations of Qt user
 
 ### Official
 
-- [Qt Forum](https://forum.qt.io/) - If e-mail's not your thing, then you might also consider getting help or sharing knowledge on the forums.
-- [Qt Wiki](https://wiki.qt.io/) - The premier source for user-contributed Qt knowledge.
+- [Qt Forum](https://forum.qt.io) - If e-mail's not your thing, then you might also consider getting help or sharing knowledge on the forums.
+- [Qt Wiki](https://wiki.qt.io) - The premier source for user-contributed Qt knowledge.
 - [Mailing Lists](http://lists.qt-project.org) - Mailing lists for users and developers of Qt alike.  Arguably the best place to communicate directly with Qt's maintainers.  Sees frequent activity.
 - [IRC](https://webchat.freenode.net/?channels=%23qt%2C%23qt-quick%2C%23qt-creator%2C%23qt-chat) - For real-time chat with other Qt developers and users.  The most popular channels are on Freenode, and include `#qt`, `#qt-quick`, `#qt-creator`, and `#qt-chat`.
   - For a full list of Qt-related IRC channels, see [here](https://wiki.qt.io/Online_Communities#IRC_channels).
@@ -37,7 +37,7 @@ If you build it, they will come.  This section describes aggregations of Qt user
 
 ### Unofficial
 
-- [QtForum.org](http://www.qtforum.org/) - Not to be confused with the official [Qt forum](https://forum.qt.io/).
+- [QtForum.org](http://www.qtforum.org) - Not to be confused with the official [Qt forum](https://forum.qt.io).
 
 
 ## Tools
@@ -48,23 +48,23 @@ A good developer writes his or her own tools.  A great one uses tools others wro
 
 The Qt framework has surprisingly many tools that don't get the spotlight.  This section describes them (as well as the star players that do).
 
-- [Qt Creator](https://www.qt.io/ide/) [:octocat:](https://github.com/qtproject/qt-creator) - By no means does Qt lock you into its provided IDE, but its firm integration with the framework makes it a good sell.  Among other things, it provides a UI designer, modeling tools, a documentation browser, and great QML support if you're into that sort of thing.  There's also a plugin system, but third-party plugins are unfortunately scarce.
+- [Qt Creator](https://www.qt.io/ide) [:octocat:](https://github.com/qtproject/qt-creator) - By no means does Qt lock you into its provided IDE, but its firm integration with the framework makes it a good sell.  Among other things, it provides a UI designer, modeling tools, a documentation browser, and great QML support if you're into that sort of thing.  There's also a plugin system, but third-party plugins are unfortunately scarce.
   - [Qt Designer](https://doc.qt.io/qt-5/qtdesigner-manual.html) [:octocat:](https://github.com/qt/qttools/tree/dev/src/designer) - If you'd rather just design the interfaces and let someone else hook them up to logic, the GUI designer is available as a separate application.
   - [Qt Assistant](https://doc.qt.io/qt-5/qtassistant-index.html) [:octocat:](https://github.com/qt/qttools/tree/dev/src/assistant) - So is the documentation viewer, for that matter.
-- [Qt Visual Studio Add-in](https://doc.qt.io/vs-addin/index.html) [:octocat:](https://github.com/qt-labs/vstools) - If you'd rather stick to Visual Studio, this add-in will let you do that.
+- [Qt Visual Studio Add-in](https://doc.qt.io/vs-addin) [:octocat:](https://github.com/qt-labs/vstools) - If you'd rather stick to Visual Studio, this add-in will let you do that.
 - [Qt Linguist](https://doc.qt.io/qt-5/qtlinguist-index.html) [:octocat:](https://github.com/qt/qttools/tree/dev/src/linguist) - Qt provides excellent internationalization/localization support, and this tool is very much responsible for it.  Write translatable strings in your code with special macros, and this tool will aggregate them all for you so you or your translator(s) can broaden your software's audience.
-- [Qt Installer Framework](https://doc.qt.io/qtinstallerframework/index.html) [:octocat:](https://github.com/qtproject/installer-framework) - Nobody seems to talk about this, but Qt also provides a way to write an installer for your application.  Does not support creation of macOS disk images, app bundles, or Linux packages, so be mindful of that when considering your project's distribution.
+- [Qt Installer Framework](https://doc.qt.io/qtinstallerframework) [:octocat:](https://github.com/qtproject/installer-framework) - Nobody seems to talk about this, but Qt also provides a way to write an installer for your application.  Does not support creation of macOS disk images, app bundles, or Linux packages, so be mindful of that when considering your project's distribution.
   - [`macdeployqt`](https://doc.qt.io/qt-5/osx-deployment.html) [:octocat:](https://github.com/qt/qttools/tree/dev/src/macdeployqt) - A tool for generating macOS application bundles for Qt projects.
 - [qmake](https://doc.qt.io/qt-5/qmake-manual.html) - A build system designed for Qt, though it can be used for non-Qt projects.
-- [qbs](https://doc.qt.io/qbs/index.html) [:octocat:](https://github.com/qt-labs/qbs) - If QML is more your style, this alternative build system might be up your alley.
-- [Emulator](https://doc.qt.io/emulator/index.html) - Don't forget about Qt's mobile support!
+- [qbs](https://doc.qt.io/qbs) [:octocat:](https://github.com/qt-labs/qbs) - If QML is more your style, this alternative build system might be up your alley.
+- [Emulator](https://doc.qt.io/emulator) - Don't forget about Qt's mobile support!
 - `qtdiag` [:octocat:](https://github.com/qt/qttools/tree/dev/src/qtdiag) - A command-line tool that prints out a lot of information pertaining to both your Qt installation and your system in general.  No link because there's no dedicated web page; just run `qtdiag` on the command line.  Excellent for troubleshooting.
 - `qmleasing` - A curiously undocumented tool that lets you make easing curves suitable for QML, though if you understand the underlying math there's no reason you couldn't use the resulting numbers elsewhere.
 
 ### Third-Party Tools
 
 - [CMake](https://doc.qt.io/qt-5/cmake-manual.html) [:octocat:](https://github.com/Kitware/CMake) - A general C++ build tool that happens to have great Qt support.
-- [GammaRay](https://www.kdab.com/development-resources/qt-tools/gammaray/) [:octocat:](https://github.com/KDAB/GammaRay) - Powerful debugger and general inspection tool for Qt-built software.  Lets you inspect and manipulate the `QObject` hierarchy, view object properties, edit widgets at runtime, and far, *far* more.  A two-sentence blurb can't do it justice, seriously check it out.
+- [GammaRay](https://www.kdab.com/development-resources/qt-tools/gammaray) [:octocat:](https://github.com/KDAB/GammaRay) - Powerful debugger and general inspection tool for Qt-built software.  Lets you inspect and manipulate the `QObject` hierarchy, view object properties, edit widgets at runtime, and far, *far* more.  A two-sentence blurb can't do it justice, seriously check it out.
 - [SIP](https://www.riverbankcomputing.com/software/sip/intro) - Generates Python bindings for C or C++ libraries.  Has special support for Qt signals and slots, and was used to create [PyQt](https://riverbankcomputing.com/software/pyqt/intro).
 
 ## Bindings in Other Languages
@@ -101,10 +101,10 @@ If the [Libraries](#libraries) section doesn't satisfy you, perhaps one of these
 
 ## Blogs
 
-- [Planet Qt](https://planet.qt.io/) - Official aggregation of Qt-related blogs.
+- [Planet Qt](https://planet.qt.io) - Official aggregation of Qt-related blogs.
 - [ICS](https://www.ics.com/blog) - A Qt-centric software consulting firm with a really neat blog.
 - [Woboq](https://woboq.com/blog) - Another software consulting firm that also contributes code to Qt.
-- [KDAB](https://www.kdab.com/category/blogs/) - *Another* consulting firm that specializes in Qt.
+- [KDAB](https://www.kdab.com/category/blogs) - *Another* consulting firm that specializes in Qt.
 
 ## Tutorials
 
@@ -128,4 +128,4 @@ A framework is only as great as the software that uses it.  Fortunately, much gr
 - [Wolfram Mathematica](https://www.wolfram.com/mathematica) - Programming language, symbolic calculator, and engineer's best friend.
 - [Yabause](https://yabause.org) [:octocat:](https://github.com/Yabause/yabause) - A Sega Saturn emulator.
 
-There's also an official showroom [here](https://showroom.qt.io/), which lets developers submit their own Qt-powered applications for display.
+There's also an official showroom [here](https://showroom.qt.io), which lets developers submit their own Qt-powered applications for display.

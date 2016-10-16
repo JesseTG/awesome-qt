@@ -69,7 +69,7 @@ The Qt framework has surprisingly many tools that don't get the spotlight.  This
 
 ## Bindings in Other Languages
 
-- [Python (via PyQt)](https://riverbankcomputing.com/software/pyqt/intro) - Arguably the most comprehensive and well-known binding of Qt to another language.
+- [Python (via PyQt)](https://riverbankcomputing.com/software/pyqt/intro) [:package:](https://www.riverbankcomputing.com/software/pyqt/download5) - Arguably the most comprehensive and well-known binding of Qt to another language.
 - [Python (via PySide)](https://github.com/PySide) - Another binding for Python, which has been officially adopted by the Qt project.
 - [Ring (via RingQt)](http://ring-lang.sourceforge.net/doc/qt.html) - I've never heard of this language either, honestly.
 
@@ -124,7 +124,7 @@ A framework is only as great as the software that uses it.  Fortunately, much gr
 - [Skype](https://www.skype.com/en/download-skype/skype-for-linux) - Yes, *that* Skype.  Only the Linux version uses Qt.
 - [TeamSpeak](http://www.teamspeak.com) - When gamers want to voice chat in a game that doesn't support it, they'll use this.
 - [Tiled](http://www.mapeditor.org) [:octocat:](https://github.com/bjorn/tiled) - Perhaps the world's most popular tilemap editor.  Suitable for level design in games.
-- [VirtualBox](https://www.virtualbox.org) - Virtualization software for x86/64 processors.  The bundled GUI uses Qt.
+- [VirtualBox](https://www.virtualbox.org) [:package:](https://www.virtualbox.org/browser/vbox/trunk) - Virtualization software for x86/64 processors.  The bundled GUI uses Qt.
 - [Wolfram Mathematica](https://www.wolfram.com/mathematica) - Programming language, symbolic calculator, and engineer's best friend.
 - [Yabause](https://yabause.org) [:octocat:](https://github.com/Yabause/yabause) - A Sega Saturn emulator.
 

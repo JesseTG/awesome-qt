@@ -108,8 +108,6 @@ If the [Libraries](#libraries) section doesn't satisfy you, perhaps one of these
 - [Woboq](https://woboq.com/blog) - Another software consulting firm that also contributes code to Qt.
 - [KDAB](https://www.kdab.com/category/blogs) - *Another* consulting firm that specializes in Qt.
 
-## Tutorials
-
 ## Software that Uses Qt
 
 A framework is only as great as the software that uses it.  Fortunately, much great software uses Qt.

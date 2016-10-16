@@ -11,14 +11,26 @@
 ## Official Resources
 
 - [Official Website](https://www.qt.io/) - The official website for the Qt framework.
+- [Qt Documentation](https://doc.qt.io/) - Official Qt documentation.  Massive and comprehensive.
+- [Qt Bug Tracker](https://bugreports.qt.io/) - If you think you've found a bug with Qt or one of its related projects, report it here (or see if someone else already has).
+- [Qt Code Review](https://codereview.qt-project.org) - See how the Qt maintainers ensure their code is well-written.
+- [Git Repo Browser](https://code.qt.io/cgit/) - Browse the various source trees that comprise the Qt project.  You can also find official mirrors of some of their repos [here](https://github.com/qtproject).
 
-### Documentation
+## Communities
 
-- Documentation
+If you build it, they will come.  This section describes aggregations of Qt users who share knowledge and code with one another.  The most popular and active communities are listed in this section, but you can find a more comprehensive list [here](https://wiki.qt.io/OnlineCommunities) if you'd prefer.
 
-### Community
+### Official
 
-- Wiki
+- [Qt Forum](https://forum.qt.io/) - If e-mail's not your thing, then you might also consider getting help or sharing knowledge on the forums.
+- [Qt Wiki](https://wiki.qt.io/) - The premier source for user-contributed Qt knowledge.
+- [Mailing Lists](http://lists.qt-project.org) - Mailing lists for users and developers of Qt alike.  Arguably the best place to communicate directly with Qt's maintainers.  Sees frequent activity.
+- [IRC](https://webchat.freenode.net/?channels=%23qt%2C%23qt-quick%2C%23qt-creator%2C%23qt-chat) - For real-time chat with other Qt developers and users.  The most popular channels are on Freenode, and include `#qt`, `#qt-quick`, `#qt-creator`, and `#qt-chat`.  Note that the linked webchat client is *not* a part of the Qt project, and is made available by the author of this list for convenience only.
+
+### Unofficial
+
+- [QtForum.org](http://www.qtforum.org/) - Not to be confused with the official [Qt forum](https://forum.qt.io/).
+
 
 ## Tools
 

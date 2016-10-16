@@ -4,7 +4,8 @@
 
 ## Conventions
 
-Any list item with an OctoCat :octocat: has a GitHub repo; click on it to see the source code!
+- Any list item with an OctoCat :octocat: has a GitHub repo or organization; click on it to see the source code!
+- List items with this :package: icon have source code hosted elsewhere.
 
 ## Contents
 

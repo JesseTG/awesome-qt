@@ -82,9 +82,9 @@ This section describes two kinds of third-party libraries; those that provide th
 
 ### New Functionality
 
-- V-Play
-- Qtilities
-- KDE libraries
+- [KDE Frameworks](https://api.kde.org/frameworks) [:octocat:](https://github.com/KDE) - Metric ass-ton of libraries for KDE, but most of them can be used with regular Qt applications as well.  Cross-platform, for the most part.
+- [Qtilities](https://jpnaude.github.io/Qtilities) [:octocat:](https://github.com/JPNaude/Qtilities) - A small set of libraries that provide GUI, logging, testing, configuration, and project functionality (among other things) for your application.
+- [V-Play](https://v-play.net) - Cross-platform 2D game engine that relies heavily upon QML.  Has a lot of tools and resources, and likely deserves its own _awesome_ list.
 
 ## Software Repositories
 

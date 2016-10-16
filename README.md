@@ -43,20 +43,20 @@ A good developer writes his or her own tools.  A great one uses tools others wro
 The Qt framework has surprisingly many tools that don't get the spotlight.  This section describes them (as well as the star players that do).
 
 - [Qt Creator](https://www.qt.io/ide/) - By no means does Qt lock you into its provided IDE, but its firm integration with the framework makes it a good sell.  Among other things, it provides a UI designer, modeling tools, a documentation browser, and great QML support if you're into that sort of thing.  There's also a plugin system, but third-party plugins are unfortunately scarce.
-  - [Qt Designer](http://doc.qt.io/qt-5/qtdesigner-manual.html) - If you'd rather just design the interfaces and let someone else hook them up to logic, the GUI designer is available as a separate application.
-  - [Qt Assistant](http://doc.qt.io/qt-5/qtassistant-index.html) - So is the documentation viewer, for that matter.
-- [Qt Visual Studio Add-in](http://doc.qt.io/vs-addin/index.html) - If you'd rather stick to Visual Studio, this add-in will let you do that.
-- [Qt Linguist](http://doc.qt.io/qt-5/qtlinguist-index.html) - Qt provides excellent internationalization/localization support, and this tool is very much responsible for it.  Write translatable strings in your code with special macros, and this tool will aggregate them all for you so you or your translator(s) can broaden your software's audience.
-- [Qt Installer Framework](http://doc.qt.io/qtinstallerframework/index.html) - Nobody seems to talk about this, but Qt also provides a way to write an installer for your application.  Does not support creation of OS X disk images or Linux packages, so be mindful of that when considering your project's distribution.
-- [qmake](http://doc.qt.io/qt-5/qmake-manual.html) - A build system designed for Qt, though it can be used for non-Qt projects.
-- [qbs](http://doc.qt.io/qbs/index.html) - If QML is more your style, this alternative build system might be up your alley.
-- [Emulator](http://doc.qt.io/emulator/index.html) - Don't forget about Qt's mobile support!
+  - [Qt Designer](https://doc.qt.io/qt-5/qtdesigner-manual.html) - If you'd rather just design the interfaces and let someone else hook them up to logic, the GUI designer is available as a separate application.
+  - [Qt Assistant](https://doc.qt.io/qt-5/qtassistant-index.html) - So is the documentation viewer, for that matter.
+- [Qt Visual Studio Add-in](https://doc.qt.io/vs-addin/index.html) - If you'd rather stick to Visual Studio, this add-in will let you do that.
+- [Qt Linguist](https://doc.qt.io/qt-5/qtlinguist-index.html) - Qt provides excellent internationalization/localization support, and this tool is very much responsible for it.  Write translatable strings in your code with special macros, and this tool will aggregate them all for you so you or your translator(s) can broaden your software's audience.
+- [Qt Installer Framework](https://doc.qt.io/qtinstallerframework/index.html) - Nobody seems to talk about this, but Qt also provides a way to write an installer for your application.  Does not support creation of OS X disk images or Linux packages, so be mindful of that when considering your project's distribution.
+- [qmake](https://doc.qt.io/qt-5/qmake-manual.html) - A build system designed for Qt, though it can be used for non-Qt projects.
+- [qbs](https://doc.qt.io/qbs/index.html) - If QML is more your style, this alternative build system might be up your alley.
+- [Emulator](https://doc.qt.io/emulator/index.html) - Don't forget about Qt's mobile support!
 - `qtdiag` - A command-line tool that prints out a lot of information pertaining to both your Qt installation and your system in general.  No link because there's no dedicated web page; just run `qtdiag` on the command line.  Excellent for troubleshooting.
 - `qmleasing` - A curiously undocumented tool that lets you make easing curves suitable for QML, though if you understand the underlying math there's no reason you couldn't use the resulting numbers elsewhere.
 
 ### Third-Party Tools
 
-- [CMake](http://doc.qt.io/qt-5/cmake-manual.html) - A general C++ build tool that happens to have great Qt support.
+- [CMake](https://doc.qt.io/qt-5/cmake-manual.html) - A general C++ build tool that happens to have great Qt support.
 - [GammaRay](https://www.kdab.com/development-resources/qt-tools/gammaray/) - Powerful debugger and general inspection tool for Qt-built software.  Lets you inspect and manipulate the `QObject` hierarchy, view object properties, edit widgets at runtime, and far, *far* more.  A two-sentence blurb can't do it justice, seriously check it out.
 - [SIP](https://www.riverbankcomputing.com/software/sip/intro) - Generates Python bindings for C or C++ libraries.  Has special support for Qt signals and slots, and was used to create [PyQt](https://riverbankcomputing.com/software/pyqt/intro).
 
@@ -92,7 +92,7 @@ If the [Libraries](#libraries) section doesn't satisfy you, perhaps one of these
 
 ## Blogs
 
-- [ICS](http://www.ics.com/blog) - A Qt-centric software consulting firm with a really neat blog.
+- [ICS](https://www.ics.com/blog) - A Qt-centric software consulting firm with a really neat blog.
 - [Woboq](https://woboq.com/blog) - Another software consulting firm that also contributes code to Qt.
 - KDAB
 planet qt
@@ -106,7 +106,7 @@ A framework is only as great as the software that uses it.  Fortunately, much gr
 - [Autodesk Maya](http://www.autodesk.com/maya) - 3D animation and design software that has been used to create visual effects for some of the most popular movies and TV shows of all time.
 - [CMake](https://cmake.org) - The closest thing to a standard C++ build system out there. The bundled GUI uses Qt.
 - [CRYENGINE](https://www.cryengine.com) - But can it run Crysis?
-- [Doxygen](http://www.stack.nl/~dimitri/doxygen) - The most popular documentation generator for C++, though it supports other languages as well.  The bundled GUI uses Qt.
+- [Doxygen](https://www.stack.nl/~dimitri/doxygen) - The most popular documentation generator for C++, though it supports other languages as well.  The bundled GUI uses Qt.
 - [Google Earth](https://www.google.com/earth) - *The* virtual globe.
 - [KDE](https://www.kde.org) - A popular desktop environment for Linux.
 - [Parallels Desktop](http://www.parallels.com/products/desktop) - Consumer-focused virtualization.
@@ -116,5 +116,5 @@ A framework is only as great as the software that uses it.  Fortunately, much gr
 - [TeamSpeak](http://www.teamspeak.com) - When gamers want to voice chat in a game that doesn't support it, they'll use this.
 - [Tiled](http://www.mapeditor.org) - Perhaps the world's most popular tilemap editor.  Suitable for level design in games.
 - [VirtualBox](https://www.virtualbox.org) - Virtualization software for x86/64 processors.  The bundled GUI uses Qt.
-- [Wolfram Mathematica](http://www.wolfram.com/mathematica) - Programming language, symbolic calculator, and engineer's best friend.
+- [Wolfram Mathematica](https://www.wolfram.com/mathematica) - Programming language, symbolic calculator, and engineer's best friend.
 - [Yabause](https://yabause.org) - A Sega Saturn emulator.

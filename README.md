@@ -20,11 +20,11 @@
 
 - Wiki
 
-### Tools
+## Tools
 
 A good developer writes his or her own tools.  A great one uses tools others wrote.  This section will help you be great; more formally, this section details applications that make it easier to create software with Qt.  You may also be interested in the [Libraries](#libraries) section.
 
-## Official Tools
+### Official Tools
 
 The Qt framework has surprisingly many tools that don't get the spotlight.  This section describes them (as well as the star players that do).
 
@@ -40,7 +40,7 @@ The Qt framework has surprisingly many tools that don't get the spotlight.  This
 - `qtdiag` - A command-line tool that prints out a lot of information pertaining to both your Qt installation and your system in general.  No link because there's no dedicated web page; just run `qtdiag` on the command line.  Excellent for troubleshooting.
 - `qmleasing` - A curiously undocumented tool that lets you make easing curves suitable for QML, though if you understand the underlying math there's no reason you couldn't use the resulting numbers elsewhere.
 
-## Third-Party Tools
+### Third-Party Tools
 
 - [CMake](http://doc.qt.io/qt-5/cmake-manual.html) - A general C++ build tool that happens to have great Qt support.
 - [GammaRay](https://www.kdab.com/development-resources/qt-tools/gammaray/) - Powerful debugger and general inspection tool for Qt-built software.  Lets you inspect and manipulate the `QObject` hierarchy, view object properties, edit widgets at runtime, and far, *far* more.  A two-sentence blurb can't do it justice, seriously check it out.

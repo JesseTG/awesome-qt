@@ -1,3 +1,7 @@
 language: node_js
 node_js:
   - 'node'
+
+script:
+  - npm test
+  - grep -oP "(?\!\()https?:\/\/.+?(?=\))" README.md | xargs wget -q --spider

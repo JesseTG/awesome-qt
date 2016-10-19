@@ -2,8 +2,6 @@
 
 > A curated list of awesome tools, libraries, and resources for the Qt framework.
 
-[![Build Status](https://travis-ci.org/JesseTG/awesome-qt.svg?branch=master)](https://travis-ci.org/JesseTG/awesome-qt)
-
 ## Conventions
 
 - Any list item with an OctoCat :octocat: has a GitHub repo or organization; click on it to see the source code!

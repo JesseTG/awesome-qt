@@ -4,4 +4,4 @@ node_js:
 
 script:
   - npm test
-  - grep -oP "https?://.+?(?=\))" README.md | sort -u | xargs -tn 1 curl --output /dev/null --silent --head --fail
+  - grep -oP "https?://.+?(?=\))" README.md | sort -u | xargs -tn 1 curl --output /dev/null --silent --head --fail -S

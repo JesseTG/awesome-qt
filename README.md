@@ -28,9 +28,9 @@ If you build it, they will come.  This section describes aggregations of Qt user
 
 ### Official
 
+- [Mailing Lists](http://lists.qt-project.org) - Mailing lists for users and developers of Qt alike.  Arguably the best place to communicate directly with Qt's maintainers.  Sees frequent activity.
 - [Qt Forum](https://forum.qt.io) - If e-mail's not your thing, then you might also consider getting help or sharing knowledge on the forums.
 - [Qt Wiki](https://wiki.qt.io) - The premier source for user-contributed Qt knowledge.
-- [Mailing Lists](http://lists.qt-project.org) - Mailing lists for users and developers of Qt alike.  Arguably the best place to communicate directly with Qt's maintainers.  Sees frequent activity.
 - [IRC](https://webchat.freenode.net/?channels=%23qt%2C%23qt-quick%2C%23qt-creator%2C%23qt-chat) - For real-time chat with other Qt developers and users.  The most popular channels are on Freenode, and include `#qt`, `#qt-quick`, `#qt-creator`, and `#qt-chat`.
   - For a full list of Qt-related IRC channels, see [here](https://wiki.qt.io/Online_Communities#IRC_channels).
   - Note that the linked webchat client is *not* a part of the Qt project, and is made available by the author of this list for convenience only.  If there's another IRC client you'd prefer to use, go right ahead.

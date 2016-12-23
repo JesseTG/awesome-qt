@@ -74,7 +74,7 @@ The Qt framework has surprisingly many tools that don't get the spotlight.  This
 This section describes software that enables creation of Qt software in a primary language other than C++.  Libraries that allow run-time scripting in a Qt application are listed under [#integrations](Integrations).
 
 - [Python (via PyQt)](https://riverbankcomputing.com/software/pyqt/intro) [:package:](https://www.riverbankcomputing.com/software/pyqt/download5) - Arguably the most comprehensive and well-known binding of Qt to another language.
-- [Python (via PySide)](http://www.pyside.org) [:package:](https://code.qt.io/cgit/pyside/pyside.git) - Another binding for Python, which has been officially adopted by the Qt project.
+- [Python (via PySide)](https://wiki.qt.io/PySide) [:package:](https://code.qt.io/cgit/pyside/pyside.git) - Another binding for Python, which has been officially adopted by the Qt project.
 - [Ring (via RingQt)](http://ring-lang.sourceforge.net/doc/qt.html) [:octocat:](https://github.com/ring-lang/ring/tree/master/extensions/ringqt) - I've never heard of this language either, honestly.
 - [Mono/.NET languages (via QtSharp)](https://github.com/ddobrev/QtSharp) [:octocat:](https://github.com/ddobrev/QtSharp) - An experimental wrapper for Qt that allows it to be used by .NET-based languages such as C#.  Young, but active.
 
@@ -93,10 +93,10 @@ For the purpose of this section, an "Integration"-focused library does one of th
 2. Wraps another library in a Qt-friendly manner as more than just an implementation detail (i.e. it tries to mimic the wrapped API).
 
 
-- [neiasound](https://github.com/lucaspcamargo/neiasound) [:octocat:](https://github.com/lucaspcamargo/neiasound) - OpenAL wrapper designed for games, with [stb_vorbis](http://nothings.org/stb_vorbis) and [libsndfile](http://www.mega-nerd.com/libsndfile) support.
-- [PythonQt](http://pythonqt.sourceforge.net) [:package:](https://sourceforge.net/projects/pythonqt) - Script your Qt applications with Python.  Not to be confused with [PyQt](https://riverbankcomputing.com/software/pyqt/intro) or [PySide](http://www.pyside.org).
+- [neiasound](https://github.com/lucaspcamargo/neiasound) [:octocat:](https://github.com/lucaspcamargo/neiasound) - OpenAL wrapper designed for games, with [stb_vorbis](https://nothings.org/stb_vorbis/) and [libsndfile](http://www.mega-nerd.com/libsndfile) support.
+- [PythonQt](http://pythonqt.sourceforge.net) [:package:](https://sourceforge.net/projects/pythonqt) - Script your Qt applications with Python.  Not to be confused with [PyQt](https://riverbankcomputing.com/software/pyqt/intro) or [PySide](https://wiki.qt.io/PySide).
 - [QScintilla](https://riverbankcomputing.com/software/qscintilla/intro) [:package:](https://www.riverbankcomputing.com/software/qscintilla/download) - An absurdly versatile and customizable text editor widget that provides syntax highlighting, code completion, code folding, recordable macros, and *much* more.  Built around [Scintilla](http://www.scintilla.org).  Created by the same company that developed [PyQt](https://riverbankcomputing.com/software/pyqt/intro).
-- [QtAwesome](https://github.com/gamecreature/QtAwesome) [:octocat:](https://github.com/gamecreature/QtAwesome) - Add [Font Awesome](http://fortawesome.github.io/Font-Awesome) icons to your Qt application.  Other icon sets are supported, too.
+- [QtAwesome](https://github.com/gamecreature/QtAwesome) [:octocat:](https://github.com/gamecreature/QtAwesome) - Add [Font Awesome](https://fortawesome.github.io/Font-Awesome) icons to your Qt application.  Other icon sets are supported, too.
 - [QtLua](http://www.nongnu.org/libqtlua) [:package:](http://svn.savannah.nongnu.org/viewvc/?root=libqtlua) - Use Lua as a scripting language for Qt-based software.
 - [qtruby](https://github.com/cybercatalyst/qtruby) [:octocat:](https://github.com/cybercatalyst/qtruby) - Use Ruby as a scripting language within your application.
 - [QuaZIP](http://quazip.sourceforge.net) [:package:](https://sourceforge.net/projects/quazip) - Read from and write to ZIP archives.  Uses [Minizip](http://www.winimage.com/zLibDll/minizip.html) under the hood.

@@ -90,6 +90,7 @@ For the purpose of this section, an "Integration"-focused library does one of th
 1. Serves as a client for an established Web service.
 2. Wraps another library in a Qt-friendly manner as more than just an implementation detail (i.e. it tries to mimic the wrapped API).
 
+
 - [QScintilla](https://riverbankcomputing.com/software/qscintilla/intro) [:package:](https://www.riverbankcomputing.com/software/qscintilla/download) - An absurdly versatile and customizable text editor widget that provides syntax highlighting, code completion, code folding, recordable macros, and *much* more.  Built around [Scintilla](http://www.scintilla.org).  Created by the same company that developed PyQt.
 
 ### New Functionality

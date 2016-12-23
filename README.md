@@ -106,7 +106,7 @@ For the purpose of this section, an "Integration"-focused library does one of th
 - [KDE Frameworks](https://api.kde.org/frameworks) [:octocat:](https://github.com/KDE) [:package:](https://quickgit.kde.org) - Metric ass-ton of libraries for KDE, but many of them can be used with regular Qt applications as well.  Cross-platform, for the most part.
 - [Marble](https://marble.kde.org) [:package:](https://cgit.kde.org/marble.git) - A virtual globe and map that can be used standalone or embedded within other applications.
 - [qml-material](https://github.com/papyros/qml-material) [:octocat:](https://github.com/papyros/qml-material) - Material Design implemented in QML.
-- [qt-mustache](https://github.com/robertknight/qt-mustache) [:octocat:](https://github.com/robertknight/qt-mustache) - Render [Mustache](http://mustache.github.io) templates.
+- [qt-mustache](https://github.com/robertknight/qt-mustache) [:octocat:](https://github.com/robertknight/qt-mustache) - Render [Mustache](https://mustache.github.io) templates.
 - [Qtilities](https://jpnaude.github.io/Qtilities) [:octocat:](https://github.com/JPNaude/Qtilities) - A small set of libraries that provide GUI, logging, testing, configuration, and project functionality (among other things) for your application.
 - [qtnotify](https://github.com/cybercatalyst/qtnotify) [:octocat:](https://github.com/cybercatalyst/qtnotify) - Notification framework.
 - [qtwebserver](https://github.com/cybercatalyst/qtwebserver) [:octocat:](https://github.com/cybercatalyst/qtwebserver) - asdfsadfasd
@@ -141,11 +141,11 @@ A framework is only as great as the software that uses it.  Fortunately, much gr
 - [Doxygen](https://www.stack.nl/~dimitri/doxygen) [:octocat:](https://github.com/doxygen/doxygen) - The most popular documentation generator for C++, though it supports other languages as well.  The bundled GUI uses Qt.
 - [Google Earth](https://www.google.com/earth) - *The* virtual globe.
 - [KDE](https://www.kde.org) [:octocat:](https://github.com/KDE) - A popular desktop environment for Linux.
-- [Parallels Desktop](http://www.parallels.com/products/desktop) - Consumer-focused virtualization.
+- [Parallels Desktop](https://www.parallels.com/products/desktop) - Consumer-focused virtualization.
 - [Qt Creator](https://www.qt.io/ide) [:octocat:](https://github.com/qtproject/qt-creator) - Something something eating your own dog food. Listed in the [official tools](#official-tools), but not listing it here doesn't feel right.
 - [RUBE](https://www.iforce2d.net/rube) - A level design tool for any game that uses the Box2D physics engine.
 - [Skype](https://www.skype.com/en/download-skype/skype-for-linux) - Yes, *that* Skype.  Only the Linux version uses Qt.
-- [TeamSpeak](http://www.teamspeak.com) - When gamers want to voice chat in a game that doesn't support it, they'll use this.
+- [TeamSpeak](https://www.teamspeak.com) - When gamers want to voice chat in a game that doesn't support it, they'll use this.
 - [Tiled](http://www.mapeditor.org) [:octocat:](https://github.com/bjorn/tiled) - Perhaps the world's most popular tilemap editor.  Suitable for level design in games.
 - [VirtualBox](https://www.virtualbox.org) [:package:](https://www.virtualbox.org/browser/vbox/trunk) - Virtualization software for x86/64 processors.  The bundled GUI uses Qt.
 - [Wolfram Mathematica](https://www.wolfram.com/mathematica) - Programming language, symbolic calculator, and engineer's best friend.

@@ -103,6 +103,8 @@ If the [Libraries](#libraries) section doesn't satisfy you, perhaps one of these
 
 ## Blogs
 
+Each entry is followed by a standout list of articles, talks, or other resources.
+
 - [Planet Qt](https://planet.qt.io) - Official aggregation of Qt-related blogs.
 - [ICS](https://www.ics.com/blog) - A Qt-centric software consulting firm with a really neat blog.
 - [Woboq](https://woboq.com/blog) - Another software consulting firm that also contributes code to Qt.

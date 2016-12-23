@@ -172,3 +172,12 @@ A framework is only as great as the software that uses it.  Fortunately, much gr
 - [Yabause](https://yabause.org) [:octocat:](https://github.com/Yabause/yabause) - A Sega Saturn emulator.
 
 There's also an official showroom [here](https://showroom.qt.io), which lets developers submit their own Qt-powered applications for display.
+
+## Relevant Awesome Lists
+
+If you're familiar with Awesome, you'll know that there's an *extremely* wide variety of resources, the usefulness of which will depend on your project.  However, if you're developing Qt applications, you'll almost certainly want to look at these as well.
+
+- [Awesome C/C++](https://github.com/fffaraz/awesome-cpp)
+- [Awesome C](https://github.com/aleksandar-todorovic/awesome-c)
+- [Awesome CMake](https://github.com/onqtam/awesome-cmake)
+- [Awesome OpenGL](https://github.com/eug/awesome-opengl)

@@ -79,7 +79,7 @@ See these [these](https://www.ics.com/blog/using-qt-alternative-programming-lang
 
 ## Libraries
 
-This section describes two kinds of third-party libraries; those that provide their own brand-new functionality (e.g. widgets, dealing with particular files), and those that provide integrations with existing software (e.g. scripting languages, clients for REST APIs, implementations of established protocols).
+This section describes two kinds of third-party libraries; those that provide their own brand-new functionality (e.g. widgets, dealing with particular file formats), and those that provide integrations with existing software (e.g. scripting languages, clients for REST APIs, implementations of established protocols).
 
 
 ### Integrations

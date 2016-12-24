@@ -148,7 +148,7 @@ Each entry is followed by a standout list of articles, talks, or other resources
 
 - [Planet Qt](https://planet.qt.io) - Official aggregation of Qt-related blogs.
 - [ICS](https://www.ics.com/blog) - A Qt-centric software consulting firm with a really neat blog.
-- [Woboq](https://woboq.com/blog) - Another software consulting firm that also contributes code to Qt.
+- [Woboq](https://woboq.com/blog) - Another software consulting firm that also contributes code to Qt.  They seem to specialize in Qt's core architecture.
     - [Moc myths debunked](https://woboq.com/blog/moc-myths.html) - The magic that Qt appears to rely in is really just a bunch of code generators.  This post will bring you up to speed on the reality of the `moc`, the most notable one.
     - How Qt Signals and Slots Work [[1](https://woboq.com/blog/how-qt-signals-slots-work.html), [2](https://woboq.com/blog/how-qt-signals-slots-work-part2-qt5.html), [3](https://woboq.com/blog/how-qt-signals-slots-work-part3-queuedconnection.html)] - Qt's signals/slots system lets any object talk to any other object.  Understanding these three articles will help you take full advantage of the feature.
     - [QMetaType knows your types](https://woboq.com/blog/qmetatype-knows-your-types.html) - C++ isn't known for having good run-time type information, so Qt brings its own.

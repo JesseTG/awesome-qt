@@ -35,9 +35,9 @@
 - [Qt Bug Tracker](https://bugreports.qt.io) - If you think you've found a bug with Qt or one of its related projects, report it here (or see if someone else already has).
 - [Qt Code Review](https://codereview.qt-project.org) - See how the Qt maintainers ensure their code is well-written.
 - [Source Code](https://code.qt.io) - Browse the various source trees that comprise the Qt project.  Has mirrors at several GitHub organizations:
-    - Qt [:octocat:](https://github.com/qt)
-    - Qt Project [:octocat:](https://github.com/qtproject)
-    - Qt Labs [:octocat:](https://github.com/qt-labs)
+  - Qt [:octocat:](https://github.com/qt)
+  - Qt Project [:octocat:](https://github.com/qtproject)
+  - Qt Labs [:octocat:](https://github.com/qt-labs)
 
 ## Communities
 
@@ -49,8 +49,8 @@ If you build it, they will come.  This section describes aggregations of Qt user
 - [Qt Forum](https://forum.qt.io) - If e-mail's not your thing, then you might also consider getting help or sharing knowledge on the forums.
 - [Qt Wiki](https://wiki.qt.io) - The premier source for user-contributed Qt knowledge.
 - [IRC](https://webchat.freenode.net/?channels=%23qt%2C%23qt-quick%2C%23qt-creator%2C%23qt-chat) - For real-time chat with other Qt developers and users.  The most popular channels are on Freenode, and include `#qt`, `#qt-quick`, `#qt-creator`, and `#qt-chat`.
-    - For a full list of Qt-related IRC channels, see [here](https://wiki.qt.io/Online_Communities#IRC_channels).
-    - Note that the linked webchat client is *not* a part of the Qt project, and is made available by the author of this list for convenience only.  If there's another IRC client you'd prefer to use, go right ahead.
+  - For a full list of Qt-related IRC channels, see [here](https://wiki.qt.io/Online_Communities#IRC_channels).
+  - Note that the linked webchat client is *not* a part of the Qt project, and is made available by the author of this list for convenience only.  If there's another IRC client you'd prefer to use, go right ahead.
 
 ### Unofficial
 
@@ -66,12 +66,12 @@ A good developer writes his or her own tools.  A great one uses tools others wro
 The Qt framework has surprisingly many tools that don't get the spotlight.  This section describes them (as well as the star players that do).  For the purpose of this section, "tool" refers to Qt-centric utilities whose code does *not* get embedded within your application (but their output might).
 
 - [Qt Creator](https://www.qt.io/ide) [:octocat:](https://github.com/qtproject/qt-creator) - By no means does Qt lock you into its provided IDE, but its firm integration with the framework makes it a good sell.  Among other things, it provides a UI designer, modeling tools, a documentation browser, and great QML support if you're into that sort of thing.  There's also a plugin system, but third-party plugins are unfortunately scarce.
-    - [Qt Designer](https://doc.qt.io/qt-5/qtdesigner-manual.html) [:octocat:](https://github.com/qt/qttools/tree/dev/src/designer) - If you'd rather just design the interfaces and let someone else hook them up to logic, the GUI designer is available as a separate application.
-    - [Qt Assistant](https://doc.qt.io/qt-5/qtassistant-index.html) [:octocat:](https://github.com/qt/qttools/tree/dev/src/assistant) - So is the documentation viewer, for that matter.
+  - [Qt Designer](https://doc.qt.io/qt-5/qtdesigner-manual.html) [:octocat:](https://github.com/qt/qttools/tree/dev/src/designer) - If you'd rather just design the interfaces and let someone else hook them up to logic, the GUI designer is available as a separate application.
+  - [Qt Assistant](https://doc.qt.io/qt-5/qtassistant-index.html) [:octocat:](https://github.com/qt/qttools/tree/dev/src/assistant) - So is the documentation viewer, for that matter.
 - [Qt Visual Studio Add-in](https://doc.qt.io/vs-addin) [:octocat:](https://github.com/qt-labs/vstools) - If you'd rather stick to Visual Studio, this add-in will let you do that.
 - [Qt Linguist](https://doc.qt.io/qt-5/qtlinguist-index.html) [:octocat:](https://github.com/qt/qttools/tree/dev/src/linguist) - Qt provides excellent internationalization/localization support, and this tool is very much responsible for it.  Write translatable strings in your code with special macros, and this tool will aggregate them all for you so you or your translator(s) can broaden your software's audience.
 - [Qt Installer Framework](https://doc.qt.io/qtinstallerframework) [:octocat:](https://github.com/qtproject/installer-framework) - Nobody seems to talk about this, but Qt also provides a way to write an installer for your application.  Does not support creation of macOS disk images, app bundles, or Linux packages, so be mindful of that when considering your project's distribution.
-    - [`macdeployqt`](https://doc.qt.io/qt-5/osx-deployment.html) [:octocat:](https://github.com/qt/qttools/tree/dev/src/macdeployqt) - A tool for generating macOS application bundles for Qt projects.
+  - [`macdeployqt`](https://doc.qt.io/qt-5/osx-deployment.html) [:octocat:](https://github.com/qt/qttools/tree/dev/src/macdeployqt) - A tool for generating macOS application bundles for Qt projects.
 - [qmake](https://doc.qt.io/qt-5/qmake-manual.html) [:octocat:](https://github.com/qt/qtbase/tree/dev/qmake) - A build system designed for Qt, though it can be used for non-Qt projects.
 - [qbs](https://doc.qt.io/qbs) [:octocat:](https://github.com/qt-labs/qbs) - If QML is more your style, consider this alternative build system.
 - [Emulator](https://doc.qt.io/emulator) - Don't forget about Qt's mobile support!
@@ -165,26 +165,26 @@ Each entry is followed by a standout list of articles, talks, or other resources
 
 - [Planet Qt](https://planet.qt.io) - Official aggregation of first-party and third-party Qt-related blogs.
 - [ICS](https://www.ics.com/blog) - A Qt-centric software consulting firm with a really neat blog.  Specializes in graphics applications.
-    - Qt Tips and Tricks [[1](https://www.ics.com/blog/qt-tips-and-tricks-part-1), [2](https://www.ics.com/blog/qt-tips-and-tricks-part-2)] - Odds and ends that might be nice to keep in your back pocket.
-    - [Mastering Qt File Selectors](https://www.ics.com/blog/mastering-qt-file-selectors) - Sometimes you need different variations of the same asset, but you won't know which ones to load until runtime.  This class will decide for you.
-    - Some Lesser Known Qt Tools and Commands [[1](https://www.ics.com/blog/some-lesser-known-qt-tools-and-commands-part-1), [2](https://www.ics.com/blog/some-lesser-known-qt-tools-and-commands-part-2), [3](https://www.ics.com/blog/some-lesser-known-qt-tools-and-commands-part-3), [4](https://www.ics.com/blog/some-lesser-known-qt-tools-and-commands-part-4), [5](https://www.ics.com/blog/some-lesser-known-qt-tools-and-commands-part-5)] - If you explore uncharted territory, you might find treasure.
-    - [Using Self-Signed Certificates in Qt Code](https://www.ics.com/blog/using-self-signed-certificates-qt-code) - Trust nobody.
-    - [Integrating C++ with QML](https://www.ics.com/blog/integrating-c-qml) - Talk to your scripting language.  That's what it's there for.
-    - Qt and OpenGL: Loading a 3D Model with Open Asset Import Library (Assimp) [[1](https://www.ics.com/blog/qt-and-opengl-loading-3d-model-open-asset-import-library-assimp), [2](https://www.ics.com/blog/qt-and-opengl-loading-3d-model-open-asset-import-library-assimp-part-2)] - Assimp supports a lot of different model types; these articles will help you support all of them.
-    - [What's new in Qt 5: QStandardPaths](https://www.ics.com/blog/whats-new-qt-5-qstandardpaths) - This feature's been around for a few years, but it's still useful enough to warrant an entry on this list.
-    - [What's New in Qt 5.2: QCommandLineParser](https://www.ics.com/blog/whats-new-qt-52-qcommandlineparser) - Another oldie, but still a goodie.
+  - Qt Tips and Tricks [[1](https://www.ics.com/blog/qt-tips-and-tricks-part-1), [2](https://www.ics.com/blog/qt-tips-and-tricks-part-2)] - Odds and ends that might be nice to keep in your back pocket.
+  - [Mastering Qt File Selectors](https://www.ics.com/blog/mastering-qt-file-selectors) - Sometimes you need different variations of the same asset, but you won't know which ones to load until runtime.  This class will decide for you.
+  - Some Lesser Known Qt Tools and Commands [[1](https://www.ics.com/blog/some-lesser-known-qt-tools-and-commands-part-1), [2](https://www.ics.com/blog/some-lesser-known-qt-tools-and-commands-part-2), [3](https://www.ics.com/blog/some-lesser-known-qt-tools-and-commands-part-3), [4](https://www.ics.com/blog/some-lesser-known-qt-tools-and-commands-part-4), [5](https://www.ics.com/blog/some-lesser-known-qt-tools-and-commands-part-5)] - If you explore uncharted territory, you might find treasure.
+  - [Using Self-Signed Certificates in Qt Code](https://www.ics.com/blog/using-self-signed-certificates-qt-code) - Trust nobody.
+  - [Integrating C++ with QML](https://www.ics.com/blog/integrating-c-qml) - Talk to your scripting language.  That's what it's there for.
+  - Qt and OpenGL: Loading a 3D Model with Open Asset Import Library (Assimp) [[1](https://www.ics.com/blog/qt-and-opengl-loading-3d-model-open-asset-import-library-assimp), [2](https://www.ics.com/blog/qt-and-opengl-loading-3d-model-open-asset-import-library-assimp-part-2)] - Assimp supports a lot of different model types; these articles will help you support all of them.
+  - [What's new in Qt 5: QStandardPaths](https://www.ics.com/blog/whats-new-qt-5-qstandardpaths) - This feature's been around for a few years, but it's still useful enough to warrant an entry on this list.
+  - [What's New in Qt 5.2: QCommandLineParser](https://www.ics.com/blog/whats-new-qt-52-qcommandlineparser) - Another oldie, but still a goodie.
 - [Woboq](https://woboq.com/blog) - Another software consulting firm that also contributes code to Qt.  They seem to specialize in Qt's core architecture.
-    - [Moc myths debunked](https://woboq.com/blog/moc-myths.html) - The magic that Qt appears to rely in is really just a bunch of code generators.  This post will bring you up to speed on the reality of the `moc`, the most notable one.
-    - How Qt Signals and Slots Work [[1](https://woboq.com/blog/how-qt-signals-slots-work.html), [2](https://woboq.com/blog/how-qt-signals-slots-work-part2-qt5.html), [3](https://woboq.com/blog/how-qt-signals-slots-work-part3-queuedconnection.html)] - Qt's signals/slots system lets any object talk to any other object.  Understanding these three articles will help you take full advantage of the feature.
-    - [QMetaType knows your types](https://woboq.com/blog/qmetatype-knows-your-types.html) - C++ isn't known for having good run-time type information, so Qt brings its own.
-    - [C++11 in Qt5](https://woboq.com/blog/cpp11-in-qt5.html) - Stop writing C++ like it's 2003; learn how you can take advantage of recent C++ features in your Qt applications.
-    - [C++14 for Qt programmers](https://woboq.com/blog/cpp14-in-qt.html) - `s/2003/2011/`
-    - [QStringLiteral explained](https://woboq.com/blog/qstringliteral.html) - String literals are widely used in many applications; wouldn't it be nice if you could make them faster to access?
-    - [Nicer debug output in Qt using QT_MESSAGE_PATTERN](https://woboq.com/blog/nice-debug-output-with-qt.html) - It's nice to be able to read your application's logs.
+  - [Moc myths debunked](https://woboq.com/blog/moc-myths.html) - The magic that Qt appears to rely in is really just a bunch of code generators.  This post will bring you up to speed on the reality of the `moc`, the most notable one.
+  - How Qt Signals and Slots Work [[1](https://woboq.com/blog/how-qt-signals-slots-work.html), [2](https://woboq.com/blog/how-qt-signals-slots-work-part2-qt5.html), [3](https://woboq.com/blog/how-qt-signals-slots-work-part3-queuedconnection.html)] - Qt's signals/slots system lets any object talk to any other object.  Understanding these three articles will help you take full advantage of the feature.
+  - [QMetaType knows your types](https://woboq.com/blog/qmetatype-knows-your-types.html) - C++ isn't known for having good run-time type information, so Qt brings its own.
+  - [C++11 in Qt5](https://woboq.com/blog/cpp11-in-qt5.html) - Stop writing C++ like it's 2003; learn how you can take advantage of recent C++ features in your Qt applications.
+  - [C++14 for Qt programmers](https://woboq.com/blog/cpp14-in-qt.html) - `s/2003/2011/`
+  - [QStringLiteral explained](https://woboq.com/blog/qstringliteral.html) - String literals are widely used in many applications; wouldn't it be nice if you could make them faster to access?
+  - [Nicer debug output in Qt using QT_MESSAGE_PATTERN](https://woboq.com/blog/nice-debug-output-with-qt.html) - It's nice to be able to read your application's logs.
 - [KDAB](https://www.kdab.com/category/blogs) - *Another* consulting firm that specializes in Qt.
-    - [GammaRay: Taking a deep look into your Qt application](https://www.youtube.com/watch?v=JcoFk_PVhdk) - asdfasdf.  Talk given at QtCon 2016 by [Volker Krause](https://github.com/vkrause).
-    - [Multithreading with Qt](https://www.youtube.com/watch?v=dcSsjxhazu0) - I want to make my application do more than once thing at once.  What could possibly go wrong?  Talk given at QtCon 2016 by [Giuseppe D'Angelo](https://github.com/dangelog).
-    - [Linux perf for Qt developers](https://www.youtube.com/watch?v=L4NClVxqdMw) - How to make your Qt application faster, Linux-style.  Talk given at QtCon 2016 by [Milian Wolff](https://github.com/milianw).
+  - [GammaRay: Taking a deep look into your Qt application](https://www.youtube.com/watch?v=JcoFk_PVhdk) - asdfasdf.  Talk given at QtCon 2016 by [Volker Krause](https://github.com/vkrause).
+  - [Multithreading with Qt](https://www.youtube.com/watch?v=dcSsjxhazu0) - I want to make my application do more than once thing at once.  What could possibly go wrong?  Talk given at QtCon 2016 by [Giuseppe D'Angelo](https://github.com/dangelog).
+  - [Linux perf for Qt developers](https://www.youtube.com/watch?v=L4NClVxqdMw) - How to make your Qt application faster, Linux-style.  Talk given at QtCon 2016 by [Milian Wolff](https://github.com/milianw).
 
 ## Books
 

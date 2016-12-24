@@ -68,7 +68,7 @@ The Qt framework has surprisingly many tools that don't get the spotlight.  This
 - [Qt Creator](https://www.qt.io/ide) [:octocat:](https://github.com/qtproject/qt-creator) - By no means does Qt lock you into its provided IDE, but its firm integration with the framework makes it a good sell.  Among other things, it provides a UI designer, modeling tools, a documentation browser, and great QML support if you're into that sort of thing.  There's also a plugin system, but third-party plugins are unfortunately scarce.
   - [Qt Designer](https://doc.qt.io/qt-5/qtdesigner-manual.html) [:octocat:](https://github.com/qt/qttools/tree/dev/src/designer) - If you'd rather just design the interfaces and let someone else hook them up to logic, the GUI designer is available as a separate application.
   - [Qt Assistant](https://doc.qt.io/qt-5/qtassistant-index.html) [:octocat:](https://github.com/qt/qttools/tree/dev/src/assistant) - So is the documentation viewer, for that matter.
-- [Qt Visual Studio Add-in](https://doc.qt.io/vs-addin) [:octocat:](https://github.com/qt-labs/vstools) - If you'd rather stick to Visual Studio, this add-in will let you do that.
+- [Qt Visual Studio Add-in](https://doc.qt.io/archives/vs-addin) [:octocat:](https://github.com/qt-labs/vstools) - If you'd rather stick to Visual Studio, this add-in will let you do that.
 - [Qt Linguist](https://doc.qt.io/qt-5/qtlinguist-index.html) [:octocat:](https://github.com/qt/qttools/tree/dev/src/linguist) - Qt provides excellent internationalization/localization support, and this tool is very much responsible for it.  Write translatable strings in your code with special macros, and this tool will aggregate them all for you so you or your translator(s) can broaden your software's audience.
 - [Qt Installer Framework](https://doc.qt.io/qtinstallerframework) [:octocat:](https://github.com/qtproject/installer-framework) - Nobody seems to talk about this, but Qt also provides a way to write an installer for your application.  Does not support creation of macOS disk images, app bundles, or Linux packages, so be mindful of that when considering your project's distribution.
   - [`macdeployqt`](https://doc.qt.io/qt-5/osx-deployment.html) [:octocat:](https://github.com/qt/qttools/tree/dev/src/macdeployqt) - A tool for generating macOS application bundles for Qt projects.
@@ -110,7 +110,7 @@ For the purpose of this section, an "Integration"-focused library does one of th
 2. Wraps another library in a Qt-friendly manner as more than just an implementation detail (i.e. it tries to mimic the wrapped API).
 
 
-- [mupdf-qt](https://xiangxw.github.io/mupdf-qt) [:octocat:](https://github.com/xiangxw/mupdf-qt) - Qt wrapper for the [MuPDF](http://mupdf.com) PDF viewer.
+- [mupdf-qt](https://xiangxw.github.io/mupdf-qt) [:octocat:](https://github.com/xiangxw/mupdf-qt) - Qt wrapper for the [MuPDF](https://mupdf.com) PDF viewer.
 - [neiasound](https://github.com/lucaspcamargo/neiasound) [:octocat:](https://github.com/lucaspcamargo/neiasound) - OpenAL wrapper designed for games, with [stb_vorbis](https://nothings.org/stb_vorbis) and [libsndfile](http://www.mega-nerd.com/libsndfile) support.
 - [PythonQt](http://pythonqt.sourceforge.net) [:package:](https://sourceforge.net/projects/pythonqt) - Script your Qt applications with Python.  Not to be confused with [PyQt](https://riverbankcomputing.com/software/pyqt/intro) or [PySide](https://wiki.qt.io/PySide).
 - [QScintilla](https://riverbankcomputing.com/software/qscintilla/intro) [:package:](https://www.riverbankcomputing.com/software/qscintilla/download) - An absurdly versatile and customizable text editor widget that provides syntax highlighting, code completion, code folding, recordable macros, and *much* more.  Built around [Scintilla](http://www.scintilla.org).  Created by the same company that developed [PyQt](https://riverbankcomputing.com/software/pyqt/intro).
@@ -229,6 +229,6 @@ If you're familiar with Awesome, you'll know that there's an *extremely* wide va
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
 To the extent possible under law, [Jesse Talavera-Greenberg](https://jessetg.github.io) has waived all copyright and related or neighboring rights to this work.  See the [LICENSE](LICENSE) file for details.

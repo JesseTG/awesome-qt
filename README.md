@@ -169,7 +169,7 @@ Each entry is followed by a standout list of articles, talks, or other resources
 - [Application Development with Qt Creator - 2nd Edition](https://www.packtpub.com/application-development/application-development-qt-creator-second-edition), by Ray Rischpater - A beginner's guide to Qt, with a lot of focus on Qt Creator and its associated tools.
 - [Qt 5 Blueprints](https://www.packtpub.com/application-development/qt-5-blueprints), by Symeon Huang - A book that seems to be about the overall structure of a Qt project.
 - [Mastering Qt 5](https://www.packtpub.com/application-development/mastering-qt-5), by Guillaume Lazar and Robin Penea - Not your daddy's Qt.  Tips and tricks for the experienced.
-- [PySide GUI Application Development- 2nd Edition](https://www.packtpub.com/application-development/pyside-gui-application-development-second-edition), by Gopinath Jaganmohan and Venkateshwaran Loganathan - Imagine these other books, but in Python.
+- [PySide GUI Application Development - 2nd Edition](https://www.packtpub.com/application-development/pyside-gui-application-development-second-edition), by Gopinath Jaganmohan and Venkateshwaran Loganathan - Imagine these other books, but in Python.
 - [Qt5 Cadaques](https://qmlbook.github.io) [:octocat:](https://github.com/qmlbook/qmlbook/) - A free book that focuses on QML.
 
 ## Software that Uses Qt

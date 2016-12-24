@@ -15,6 +15,7 @@
 
 - [Official Website](https://www.qt.io) - The official website for the Qt framework.
 - [Qt Documentation](https://doc.qt.io) - Official Qt documentation.  Massive and comprehensive.
+- [Qt Newsletters](https://www.qt.io/newsletters) - The best of Qt, straight to your spam filter.
 - [Qt Bug Tracker](https://bugreports.qt.io) - If you think you've found a bug with Qt or one of its related projects, report it here (or see if someone else already has).
 - [Qt Code Review](https://codereview.qt-project.org) - See how the Qt maintainers ensure their code is well-written.
 - [Source Code](https://code.qt.io) - Browse the various source trees that comprise the Qt project.  Has mirrors at several GitHub organizations:

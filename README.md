@@ -138,8 +138,8 @@ For the purpose of this section, an "Integration"-focused library does one of th
 - [qt-mustache](https://github.com/robertknight/qt-mustache) [:octocat:](https://github.com/robertknight/qt-mustache) - Render [Mustache](https://mustache.github.io) templates.
 - [QtAV](http://www.qtav.org) [:octocat:](https://github.com/wang-bin/QtAV) - An actively developed multimedia framework.
 - [Qtilities](https://jpnaude.github.io/Qtilities) [:octocat:](https://github.com/JPNaude/Qtilities) - A small set of libraries that provide GUI, logging, testing, configuration, and project functionality (among other things) for your application.
-- [QtitanChart](http://www.devmachines.com/qtitanchart-overview.html) - A powerful chart generation framework.  Commercial.
-- [QtitanRibbon](http://www.devmachines.com/qtitanribbon-overview.html) - For fans of the ribbons that Microsoft uses in their software.  Commercial.
+- [QtitanChart](http://www.devmachines.com/qtitanchart-overview) - A powerful chart generation framework.  Commercial.
+- [QtitanRibbon](http://www.devmachines.com/qtitanribbon-overview) - For fans of the ribbons that Microsoft uses in their software.  Commercial.
 - [qtnotify](https://github.com/cybercatalyst/qtnotify) [:octocat:](https://github.com/cybercatalyst/qtnotify) - Notification framework.
 - [QtTerminalWidget](https://github.com/cybercatalyst/qtterminalwidget) [:octocat:](https://github.com/cybercatalyst/qtterminalwidget) - Make your application capable of **anything**.
 - [QtVerbalExpressions](https://github.com/VerbalExpressions/QtVerbalExpressions) [:octocat:](https://github.com/VerbalExpressions/QtVerbalExpressions) - Create regular expressions using natural English expressions.  Part of the [VerbalExpressions](https://verbalexpressions.github.io) project, which does the same thing for a wide variety of languages.

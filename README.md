@@ -9,7 +9,22 @@
 
 ## Contents
 
-- TBD
+- [Official Resources](#official-resources)
+- [Communities](#communities)
+    - [Official](#official)
+    - [Unofficial](#unofficial)
+- [Tools](#tools)
+    - [Official Tools](#official-tools)
+    - [Third-Party Tools](#third-party-tools)
+- [Bindings in Other Languages](#bindings-in-other-languages)
+- [Libraries](#libraries)
+    - [Integrations](#integrations)
+    - [New Functionality](#new-functionality)
+- [Software Repositories](#software-repositories)
+- [Blogs](#blogs)
+- [Books](#books)
+- [Software that Uses Qt](#software-that-uses-qt)
+- [Other Relevant Awesome Lists](#other-relevant-awesome-lists)
 
 ## Official Resources
 

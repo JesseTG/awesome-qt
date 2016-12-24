@@ -25,6 +25,7 @@
 - [Books](#books)
 - [Software that Uses Qt](#software-that-uses-qt)
 - [Other Relevant Awesome Lists](#other-relevant-awesome-lists)
+- [License](#license)
 
 ## Official Resources
 
@@ -225,3 +226,9 @@ If you're familiar with Awesome, you'll know that there's an *extremely* wide va
 - [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) - Same goes for C libraries; might wanna brush up on those RAII techniques while you're at it.
 - [Awesome CMake](https://github.com/onqtam/awesome-cmake) - If you're not using qmake for your project, you're likely using CMake instead.
 - [Awesome OpenGL](https://github.com/eug/awesome-opengl) - Qt is commonly used for graphics applications, even providing its own wrappers around OpenGL.
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, [Jesse Talavera-Greenberg](https://jessetg.github.io) has waived all copyright and related or neighboring rights to this work.  See the [LICENSE](LICENSE) file for details.

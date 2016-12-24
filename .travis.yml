@@ -1,7 +1,9 @@
 language: node_js
 node_js:
   - 'node'
-
+cache:
+  directories:
+    - node_modules
 script:
   - npm test
   - grep -oP "https?://.+?(?=\))" README.md | sort -u | xargs -tn 1 curl --output /dev/null --silent --head --fail -S

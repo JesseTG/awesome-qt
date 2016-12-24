@@ -158,6 +158,10 @@ Each entry is followed by a standout list of articles, talks, or other resources
     - [QStringLiteral explained](https://woboq.com/blog/qstringliteral.html) - String literals are widely used in many applications; wouldn't it be nice if you could make them faster to access?
     - [Nicer debug output in Qt using QT_MESSAGE_PATTERN](https://woboq.com/blog/nice-debug-output-with-qt.html) - It's nice to be able to read your application's logs.
 - [KDAB](https://www.kdab.com/category/blogs) - *Another* consulting firm that specializes in Qt.
+    - [GammaRay: Taking a deep look into your Qt application](https://www.youtube.com/watch?v=JcoFk_PVhdk) - asdfasdf.  Talk given at QtCon 2016 by [Volker Krause](https://github.com/vkrause).
+    - [Multithreading with Qt](https://www.youtube.com/watch?v=dcSsjxhazu0) - I want to make my application do more than once thing at once.  What could possibly go wrong?  Talk given at QtCon 2016 by [Giuseppe D'Angelo](https://github.com/dangelog).
+    - [Linux perf for Qt developers](https://www.youtube.com/watch?v=L4NClVxqdMw) - How to make your Qt application faster, Linux-style.  Talk given at QtCon 2016 by [Milian Wolff](https://github.com/milianw).
+
 
 ## Software that Uses Qt
 

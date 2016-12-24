@@ -17,6 +17,8 @@ Ensure your pull request adheres to the following guidelines:
 - Indent everything with four spaces.
 - The pull request should have a useful title and description.
 - New categories or improvements to the existing categorization are welcome, but should be done in a separate pull request.
+- Use HTTPS links, where possible.
+- No trailing slashes in links, please.
 
 Thank you for your contribution!
 

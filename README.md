@@ -164,13 +164,13 @@ Each entry is followed by a standout list of articles, talks, or other resources
 
 ## Books
 
-- [Qt5 C++ GUI Programming Cookbook](https://www.packtpub.com/application-development/qt5-c-gui-programming-cookbook), by Lee Zhi Eng - Overview of advanced GUI programming techniques for those familiar (but not satisfied) with the basics.
+- [Qt5 C++ GUI Programming Cookbook](https://www.packtpub.com/application-development/qt5-c-gui-programming-cookbook), by [Lee Zhi Eng](https://www.zhieng.com) - Overview of advanced GUI programming techniques for those familiar (but not satisfied) with the basics.
 - [Game Programming Using Qt: Beginner's Guide](https://www.packtpub.com/game-development/game-programming-using-qt) by Witold Wysota and Lorenz Haas - A good place to start learning how to program games with QML.
-- [Application Development with Qt Creator - 2nd Edition](https://www.packtpub.com/application-development/application-development-qt-creator-second-edition), by Ray Rischpater - A beginner's guide to Qt, with a lot of focus on Qt Creator and its associated tools.
-- [Qt 5 Blueprints](https://www.packtpub.com/application-development/qt-5-blueprints), by Symeon Huang - A book that seems to be about the overall structure of a Qt project.
-- [Mastering Qt 5](https://www.packtpub.com/application-development/mastering-qt-5), by Guillaume Lazar and Robin Penea - Not your daddy's Qt.  Tips and tricks for the experienced.
+- [Application Development with Qt Creator - 2nd Edition](https://www.packtpub.com/application-development/application-development-qt-creator-second-edition), by [Ray Rischpater](http://www.lothlorien.com/kf6gpe) - A beginner's guide to Qt, with a lot of focus on Qt Creator and its associated tools.
+- [Qt 5 Blueprints](https://www.packtpub.com/application-development/qt-5-blueprints), by [Symeon Huang](https://github.com/librehat) - A book that seems to be about the overall structure of a Qt project.
+- [Mastering Qt 5](https://www.packtpub.com/application-development/mastering-qt-5), by [Guillaume Lazar](https://github.com/GuillaumeLazar) and [Robin Penea](https://github.com/synapticvoid) - Not your daddy's Qt.  Tips and tricks for the experienced.
 - [PySide GUI Application Development - 2nd Edition](https://www.packtpub.com/application-development/pyside-gui-application-development-second-edition), by Gopinath Jaganmohan and Venkateshwaran Loganathan - Imagine these other books, but in Python.
-- [Qt5 Cadaques](https://qmlbook.github.io) [:octocat:](https://github.com/qmlbook/qmlbook/) - A free book that focuses on QML.
+- [Qt5 Cadaques](https://qmlbook.github.io) [:octocat:](https://github.com/qmlbook/qmlbook) - A free book that focuses on QML.
 
 ## Software that Uses Qt
 

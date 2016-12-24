@@ -162,6 +162,15 @@ Each entry is followed by a standout list of articles, talks, or other resources
     - [Multithreading with Qt](https://www.youtube.com/watch?v=dcSsjxhazu0) - I want to make my application do more than once thing at once.  What could possibly go wrong?  Talk given at QtCon 2016 by [Giuseppe D'Angelo](https://github.com/dangelog).
     - [Linux perf for Qt developers](https://www.youtube.com/watch?v=L4NClVxqdMw) - How to make your Qt application faster, Linux-style.  Talk given at QtCon 2016 by [Milian Wolff](https://github.com/milianw).
 
+## Books
+
+- [Qt5 C++ GUI Programming Cookbook](https://www.packtpub.com/application-development/qt5-c-gui-programming-cookbook), by Lee Zhi Eng - Overview of advanced GUI programming techniques for those familiar (but not satisfied) with the basics.
+- [Game Programming Using Qt: Beginner's Guide](https://www.packtpub.com/game-development/game-programming-using-qt) by Witold Wysota and Lorenz Haas - A good place to start learning how to program games with QML.
+- [Application Development with Qt Creator - 2nd Edition](https://www.packtpub.com/application-development/application-development-qt-creator-second-edition), by Ray Rischpater - A beginner's guide to Qt, with a lot of focus on Qt Creator and its associated tools.
+- [Qt 5 Blueprints](https://www.packtpub.com/application-development/qt-5-blueprints), by Symeon Huang - A book that seems to be about the overall structure of a Qt project.
+- [Mastering Qt 5](https://www.packtpub.com/application-development/mastering-qt-5), by Guillaume Lazar and Robin Penea - Not your daddy's Qt.  Tips and tricks for the experienced.
+- [PySide GUI Application Development- 2nd Edition](https://www.packtpub.com/application-development/pyside-gui-application-development-second-edition), by Gopinath Jaganmohan and Venkateshwaran Loganathan - Imagine these other books, but in Python.
+- [Qt5 Cadaques](https://qmlbook.github.io) [:octocat:](https://github.com/qmlbook/qmlbook/) - A free book that focuses on QML.
 
 ## Software that Uses Qt
 

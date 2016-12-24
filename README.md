@@ -150,6 +150,12 @@ Each entry is followed by a standout list of articles, talks, or other resources
 - [ICS](https://www.ics.com/blog) - A Qt-centric software consulting firm with a really neat blog.
 - [Woboq](https://woboq.com/blog) - Another software consulting firm that also contributes code to Qt.
     - [Moc myths debunked](https://woboq.com/blog/moc-myths.html) - The magic that Qt appears to rely in is really just a bunch of code generators.  This post will bring you up to speed on the reality of the `moc`, the most notable one.
+    - How Qt Signals and Slots Work [[1](https://woboq.com/blog/how-qt-signals-slots-work.html), [2](https://woboq.com/blog/how-qt-signals-slots-work-part2-qt5.html), [3](https://woboq.com/blog/how-qt-signals-slots-work-part3-queuedconnection.html)] - Qt's signals/slots system lets any object talk to any other object.  Understanding these three articles will help you take full advantage of the feature.
+    - [QMetaType knows your types](https://woboq.com/blog/qmetatype-knows-your-types.html) - C++ isn't known for having good run-time type information, so Qt brings its own.
+    - [C++11 in Qt5](https://woboq.com/blog/cpp11-in-qt5.html) - Stop writing C++ like it's 2003; learn how you can take advantage of recent C++ features in your Qt applications.
+    - [C++14 for Qt programmers](https://woboq.com/blog/cpp14-in-qt.html) - `s/2003/2011/`
+    - [QStringLiteral explained](https://woboq.com/blog/qstringliteral.html) - String literals are widely used in many applications; wouldn't it be nice if you could make them faster to access?
+    - [Nicer debug output in Qt using QT_MESSAGE_PATTERN](https://woboq.com/blog/nice-debug-output-with-qt.html) - It's nice to be able to read your application's logs.
 - [KDAB](https://www.kdab.com/category/blogs) - *Another* consulting firm that specializes in Qt.
 
 ## Software that Uses Qt

@@ -149,6 +149,7 @@ Each entry is followed by a standout list of articles, talks, or other resources
 - [Planet Qt](https://planet.qt.io) - Official aggregation of Qt-related blogs.
 - [ICS](https://www.ics.com/blog) - A Qt-centric software consulting firm with a really neat blog.
 - [Woboq](https://woboq.com/blog) - Another software consulting firm that also contributes code to Qt.
+    - [Moc myths debunked](https://woboq.com/blog/moc-myths.html) - The magic that Qt appears to rely in is really just a bunch of code generators.  This post will bring you up to speed on the reality of the `moc`, the most notable one.
 - [KDAB](https://www.kdab.com/category/blogs) - *Another* consulting firm that specializes in Qt.
 
 ## Software that Uses Qt

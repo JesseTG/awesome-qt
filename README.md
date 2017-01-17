@@ -215,7 +215,7 @@ A framework is only as great as the software that uses it.  Fortunately, much gr
 - [TeamSpeak](https://www.teamspeak.com) - When gamers want to voice chat in a game that doesn't support it, they'll use this.
 - [Tiled](http://www.mapeditor.org) [:octocat:](https://github.com/bjorn/tiled) - Perhaps the world's most popular tilemap editor.  Suitable for level design in games.
 - [VirtualBox](https://www.virtualbox.org) [:package:](https://www.virtualbox.org/browser/vbox/trunk) - Virtualization software for x86/64 processors.  The bundled GUI uses Qt.
-- [Wolfram Mathematica](https://www.wolfram.com/mathematica) - Programming language, symbolic calculator, and engineer's best friend.
+- [Wolfram Mathematica](https://www.wolfram.com/mathematica) - Programming language, symbolic calculator, and an engineer's best friend.
 - [Yabause](https://yabause.org) [:octocat:](https://github.com/Yabause/yabause) - Sega Saturn emulator.
 
 There's also an official showroom [here](https://showroom.qt.io), which lets developers submit their own Qt-powered applications for display.

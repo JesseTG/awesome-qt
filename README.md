@@ -4,6 +4,10 @@
 
 > A curated list of awesome tools, libraries, and resources for the Qt framework.
 
+[Qt](https://www.qt.io) is a powerful cross-platform application development framework, for use primarily (but not exclusively) in C++.  It's great for GUI applications, but can be used for many other things as well.
+
+Contributions are welcome!
+
 ## Conventions
 
 - Any list item with an OctoCat :octocat: has a GitHub repo or organization; click on it to see the source code!

@@ -1,6 +1,6 @@
 # Awesome Qt  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[![Qt](https://raw.githubusercontent.com/JesseTG/awesome-qt/master/qt.svg)](qt.svg)
+[![Qt](https://cdn.rawgit.com/JesseTG/awesome-qt/ef9f71a9/qt.svg)](qt.svg)
 
 > A curated list of awesome tools, libraries, and resources for the Qt framework.
 

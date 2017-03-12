@@ -3,4 +3,4 @@ node_js:
   - 'node'
 script:
   - npm test
-  - grep -oP "https?://.+?(?=[\)\"])" README.md | sort -u | xargs -tn 1 curl --output /dev/null --silent --head --fail -S
+  - grep -oP "https?://.+?(?=[\)\"])" README.md | sort -u | xargs -tn 1 curl --output /dev/null --silent --fail --show-error --compressed --retry 3 --retry-delay 2

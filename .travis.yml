@@ -5,6 +5,6 @@ node_js:
   - 'node'
 script:
   - npm test
-  - echo "Not checking these sites as they reject pings from Travis:$(cat no-check.txt)"
+  - echo "Not checking these sites as they reject pings from Travis:\n$(sed -e 's/^/  - /' ./no-check.txt)"
   - grep --only-matching --perl-regexp "https?://.+?(?=[\)\"])" README.md | sort --unique | comm -2 -3 - no-check.txt | xargs --verbose --max-args 1 curl --output /dev/null --silent --fail --show-error --compressed --retry 3 --retry-delay 2
   # Some websites don't like Travis pinging them, so I won't check them to see if they're alive

@@ -131,6 +131,7 @@ For the purpose of this section, an "Integration"-focused library does one of th
 
 - [Communi](https://communi.github.io) [:octocat:](https://github.com/communi/libcommuni) - Cross-platform IRC framework.  We've got enough IRC clients out there already, but I suppose this could also be used to implement a chat function in your application (e.g. for community support).
 - [cutelyst](http://cutelyst.org) [:octocat:](https://github.com/cutelyst/cutelyst) - Web framework that takes some ideas from Perl's Catalyst framework.
+- [DiceParser](https://github.com/Rolisteam/DiceParser) [:octocat:](https://github.com/Rolisteam/DiceParser) - Dice Roller framework based on its own syntax. 
 - [DOtherSide](https://github.com/filcuc/DOtherSide) [:octocat:](https://github.com/filcuc/DOtherSide) - Binding for QML in C, primarily designed as an API for *other* languages to support QML.
 - [glraw](https://github.com/cginternals/glraw) [:octocat:](https://github.com/cginternals/glraw) - Convert images from any Qt-supported format to OpenGL-format textures.  Useful for speeding up texture loading in graphics applications.
 - [grantlee](https://github.com/steveire/grantlee) [:octocat:](https://github.com/steveire/grantlee) - Django-inspired text templating.
@@ -215,6 +216,7 @@ A framework is only as great as the software that uses it.  Fortunately, much gr
 - [Malwarebytes](https://www.malwarebytes.com) - Your Windows desktop's personal bodyguard.
 - [Parallels Desktop](https://www.parallels.com/products/desktop) - Consumer-focused virtualization.
 - [Qt Creator](https://www.qt.io/ide) [:octocat:](https://github.com/qtproject/qt-creator) - Something something eating your own dog food. Listed in the [official tools](#official-tools), but not listing it here doesn't feel right.
+- [Rolisteam](http://www.rolisteam.org) [:octocat:](https://github.com/Rolisteam/rolisteam) - Virtual tabletop for remote Role Playing Games.
 - [RUBE](https://www.iforce2d.net/rube) - Level design tool for any game that uses the Box2D physics engine.
 - [Skype](https://www.skype.com/en/download-skype/skype-for-linux) - Yes, *that* Skype.  Only the Linux version uses Qt.
 - [TeamSpeak](https://www.teamspeak.com) - When gamers want to voice chat in a game that doesn't support it, they'll use this.

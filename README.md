@@ -97,12 +97,19 @@ The Qt framework has surprisingly many tools that don't get the spotlight.  This
 
 This section describes software that enables creation of Qt software in a primary language other than C++.  Libraries that allow run-time scripting in a Qt application are listed under [Integrations](#integrations).
 
+- [go-qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS.
+- [qmlrs](https://github.com/cyndis/qmlrs) - qmlrs allows the use of QML/QtQuick code from Rust.
+- [lablqml](https://github.com/Kakadu/lablqml) - Let's write QML/QtQuick GUI's for OCaml and Reason.
+- [libqmlbind](https://github.com/seanchas116/libqmlbind) - A C library for creating QML bindings for other languages easily through exporting objects to QML.
+- [DOtherside](https://github.com/filcuc/DOtherSide) - C language library for creating bindings for the Qt QML language
+- [Bindgen](https://github.com/Papierkorb/bindgen/) - Binding and wrapper generator for C++ libraries, focused on Crystal
+- [qt5.cr](https://github.com/Papierkorb/qt5.cr) - Bindings to Crystal via Bindgen. 
 - [Python (via PyQt)](https://riverbankcomputing.com/software/pyqt) [:package:](https://www.riverbankcomputing.com/software/pyqt/download5) - Arguably the most comprehensive and well-known binding of Qt to another language.
 - [Python (via PySide)](https://wiki.qt.io/PySide) [:package:](https://code.qt.io/cgit/pyside/pyside.git) - Another binding for Python, which has been officially adopted by the Qt project.
 - [Ring (via RingQt)](http://ring-lang.sourceforge.net/doc/qt.html) [:octocat:](https://github.com/ring-lang/ring/tree/master/extensions/ringqt) - I've never heard of this language either, honestly.
 - [Mono/.NET languages (via QtSharp)](https://github.com/ddobrev/QtSharp) [:octocat:](https://github.com/ddobrev/QtSharp) - Experimental wrapper for Qt that allows it to be used by .NET-based languages such as C#.  Young, but active.
 
-See these [these](https://www.ics.com/blog/using-qt-alternative-programming-languages-part-1) [three](https://www.ics.com/blog/using-qt-alternative-programming-languages-part-2) [articles](https://wiki.qt.io/Category:LanguageBindings) if you want more.
+See these [these](https://en.wikipedia.org/wiki/List_of_language_bindings_for_Qt_5) [articles](https://wiki.qt.io/Category:LanguageBindings) if you want more.
 
 ## Libraries
 

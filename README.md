@@ -156,6 +156,7 @@ For the purpose of this section, an "Integration"-focused library does one of th
 - [Qwt](http://qwt.sourceforge.net) [:package:](https://sourceforge.net/projects/qwt) - Qt widgets designed for scientific and technical applications.
 - [V-Play](https://v-play.net) - Cross-platform 2D game engine and app framework that relies heavily on QML.  Has a lot of tools and resources, and may even deserve its own list.
 - [verdigris](https://github.com/woboq/verdigris) [:octocat:](https://github.com/woboq/verdigris) - Experimental library to write Qt applications *without* using the `moc`.
+- [WinToast](https://github.com/mohabouje/WinToast) [:octocat:](https://github.com/mohabouje/WinToast) - Brings a complete integration of the modern toast notifications of Windows 8 & 10.
 
 ## Software Repositories
 

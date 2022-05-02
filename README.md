@@ -127,6 +127,7 @@ For the purpose of this section, an "Integration"-focused library does one of th
 - [qtruby](https://github.com/cybercatalyst/qtruby) [:octocat:](https://github.com/cybercatalyst/qtruby) - Use Ruby as a scripting language within your application.
 - [QuaZIP](http://quazip.sourceforge.net) [:package:](https://sourceforge.net/projects/quazip) - Read from and write to ZIP archives.  Uses [Minizip](http://www.winimage.com/zLibDll/minizip.html) under the hood.
 - [VLC-Qt](https://vlc-qt.tano.si) [:octocat:](https://github.com/vlc-qt/vlc-qt) - Wrapper for [libvlc](https://wiki.videolan.org/LibVLC) that lets you add a VLC-like media player to your application.
+- [SCodes](https://github.com/scytheStudio/SCodes) [:octocat:](https://github.com/scytheStudio/SCodes) - Qt & QML wrapper for [ZXing-C++ Library](https://github.com/nu-book/zxing-cpp) with ready-made QML items for decoding and generating 1D and 2D barcodes (aka. QR codes).
 
 ### New Functionality
 
@@ -193,6 +194,11 @@ Each entry is followed by a standout list of articles, talks, or other resources
   - [GammaRay: Taking a deep look into your Qt application](https://www.youtube.com/watch?v=JcoFk_PVhdk) - Talk about [GammaRay](https://www.kdab.com/development-resources/qt-tools/gammaray) and how it can help you dissect your Qt applications.  Talk given at QtCon 2016 by [Volker Krause](https://github.com/vkrause).
   - [Multithreading with Qt](https://www.youtube.com/watch?v=dcSsjxhazu0) - I want to make my application do more than once thing at once.  What could possibly go wrong?  Talk given at QtCon 2016 by [Giuseppe D'Angelo](https://github.com/dangelog).
   - [Linux perf for Qt developers](https://www.youtube.com/watch?v=L4NClVxqdMw) - How to make your Qt application faster, Linux-style.  Talk given at QtCon 2016 by [Milian Wolff](https://github.com/milianw).
+- [Scythe-Studio](https://scythe-studio.com/blog) - Yet another consulting company specialized in Qt
+  - [Qt Creator Cheat Sheet](https://scythe-studio.com/blog/qt-creator-cheat-sheet) - Convenient document for improving your familiarity with Qt Creator IDE.
+  - [Qt Installer Framework tutorial](https://scythe-studio.com/blog/deploying-app-and-generating-offline-installers-for-windows-qt-installer-framework-tutorial) - Series about practical usage of Qt Installer framework with in-depth overview of different features.
+  - [How to interface Qt with Android Java code](https://scythe-studio.com/blog/how-to-interface-qt-with-android-java-code) - Getting wild and "native" with Android code in your Qt application.
+  - [How to use NFC in Qt/Qml application?](https://scythe-studio.com/blog/nfc-in-qt-qml-application) - Have you ever wondered how to use NFC in Qt/Qml application? This blog post will give you a complex overview of the concept of near-field communication technology with examples of its usage in real life.
 
 ## Books
 
@@ -203,6 +209,7 @@ Each entry is followed by a standout list of articles, talks, or other resources
 - [Mastering Qt 5](https://www.packtpub.com/application-development/mastering-qt-5), by [Guillaume Lazar](https://github.com/GuillaumeLazar) and [Robin Penea](https://github.com/synapticvoid) [:octocat:](https://github.com/PacktPublishing/Mastering-Qt-5) - Not your daddy's Qt.  Tips and tricks for the experienced.  The source code used in the book is available for free.
 - [PySide GUI Application Development - 2nd Edition](https://www.packtpub.com/application-development/pyside-gui-application-development-second-edition), by Gopinath Jaganmohan and Venkateshwaran Loganathan - Imagine these other books, but in Python.
 - [Qt5 Cadaques](https://qmlbook.github.io) [:octocat:](https://github.com/qmlbook/qmlbook) - Free book that focuses on QML, named for this town in northeastern Spain that the authors vacationed to once.
+- [Qt6 QML Book](https://www.qt.io/product/qt6/qml-book) [:octocat:](https://github.com/qmlbook/qt6book), by Johan Thelin, Jürgen Bocklage-Ryannel and Cyril Lorquet - Free book created by Qt Company. It provides you with a walk through of the different aspects of application development using the new Qt 6. It focuses on the Qt Quick technology, but also provides necessary information about writing C++ back-ends and extension for Qt Quick.
 
 ## Software that Uses Qt
 
@@ -232,6 +239,7 @@ A framework is only as great as the software that uses it.  Fortunately, much gr
 - [Wireshark](https://www.wireshark.org) [:package:](https://code.wireshark.org/review/gitweb?p=wireshark.git;a=tree) - The most popular packet-sniffer out there.  You *are* going to use this for good and not evil, right?
 - [Wolfram Mathematica](https://www.wolfram.com/mathematica) - Programming language, symbolic calculator, and an engineer's best friend.
 - [Yabause](https://yabause.org) [:octocat:](https://github.com/Yabause/yabause) - Sega Saturn emulator.
+- [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura) [:octocat:](https://github.com/Ultimaker/Cura) - Slicer application used to prepare your 3D models for printing with a 3D printer. Built with Uranium framework which is based on Qt 5 and Python 3.
 
 There's also an official showroom [here](https://showroom.qt.io), which lets developers submit their own Qt-powered applications for display.
 

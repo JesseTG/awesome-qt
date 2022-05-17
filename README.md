@@ -158,6 +158,7 @@ For the purpose of this section, an "Integration"-focused library does one of th
 - [QtXlsx](http://qtxlsx.debao.me) [:octocat:](https://github.com/dbzhang800/QtXlsxWriter) - Read and write spreadsheets in Microsoft Excel format.
 - [Qwt](http://qwt.sourceforge.net) [:package:](https://sourceforge.net/projects/qwt) - Qt widgets designed for scientific and technical applications.
 - [verdigris](https://github.com/woboq/verdigris) [:octocat:](https://github.com/woboq/verdigris) - Experimental library to write Qt applications *without* using the `moc`.
+- [WinToast](https://github.com/mohabouje/WinToast) [:octocat:](https://github.com/mohabouje/WinToast) - Brings a complete integration of the modern toast notifications of Windows 8 & 10.
 
 ## Software Repositories
 

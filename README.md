@@ -240,6 +240,8 @@ A framework is only as great as the software that uses it.  Fortunately, much gr
 - [Wolfram Mathematica](https://www.wolfram.com/mathematica) - Programming language, symbolic calculator, and an engineer's best friend.
 - [Yabause](https://yabause.org) [:octocat:](https://github.com/Yabause/yabause) - Sega Saturn emulator.
 - [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura) [:octocat:](https://github.com/Ultimaker/Cura) - Slicer application used to prepare your 3D models for printing with a 3D printer. Built with Uranium framework which is based on Qt 5 and Python 3.
+- [OkMSG-Desktop](https://github.com/okstar-org) [:package:](https://github.com/okstar-org/ok-msg-desktop) -
+OkMSG is an enterprise communication collaboration tool developed and maintained by the OkStar (okstar. org) community that focuses on data security and protection. It supports independent private deployment and is an open-source project that integrates multiple functions such as instant messaging, voice, video calling, file sending, and meetings.
 
 There's also an official showroom [here](https://showroom.qt.io), which lets developers submit their own Qt-powered applications for display.
 

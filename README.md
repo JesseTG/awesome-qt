@@ -199,6 +199,7 @@ Each entry is followed by a standout list of articles, talks, or other resources
   - [Qt Installer Framework tutorial](https://scythe-studio.com/blog/deploying-app-and-generating-offline-installers-for-windows-qt-installer-framework-tutorial) - Series about practical usage of Qt Installer framework with in-depth overview of different features.
   - [How to interface Qt with Android Java code](https://scythe-studio.com/blog/how-to-interface-qt-with-android-java-code) - Getting wild and "native" with Android code in your Qt application.
   - [How to use NFC in Qt/Qml application?](https://scythe-studio.com/blog/nfc-in-qt-qml-application) - Have you ever wondered how to use NFC in Qt/Qml application? This blog post will give you a complex overview of the concept of near-field communication technology with examples of its usage in real life.
+  - [Qt and QML tutorial](https://scythe-studio.com/en/blog/qt-qml-tutorials-new-series-by-scythe-studio) - Qt and QML from scratch tutorial.
 
 ## Books
 
